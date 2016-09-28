@@ -1,0 +1,14 @@
+- name: Programs
+  link: /#programs
+
+- name: About
+  link: /#about
+
+- name: Contact
+  link: /#contact
+
+- name: News
+  link: /news
+
+- name: Social Media
+  link: /#social

@@ -1,0 +1,89 @@
+nav {
+  z-index: 9;
+}
+
+.h-full {
+  height: 100vh;
+}
+
+.w-full {
+  width: 100vw;
+}
+
+.w-400 {
+  width: 400%;
+}
+
+.overflow-hidden {
+  overflow-x: hidden;
+}
+
+.bg-gray-b {
+  background: #2c2c2c;
+}
+
+.gray-b {
+  color: #2c2c2c;
+}
+
+.bg-maroon-b {
+  background: #ba202b;
+}
+
+.maroon-b {
+  color: #ba202b;
+}
+
+.bg-blue-b {
+  background: #7da9da;
+}
+
+.blue-b {
+  color: #7da9da;
+}
+
+.bg-green-b {
+  background: #007877;
+}
+
+.green-b {
+  color: #007877;
+}
+
+/*
+ * CONTACT SECTION
+ */
+
+ .fieldset input {
+   border: 2px solid gray;
+   background: none;
+   z-index: 1;
+   outline: 0;
+ }
+ .fieldset input:valid {
+   background: white;
+ }
+ .fieldset input:focus {
+   border-color: #ba202b;
+   padding: 4px 6px 20px 6px;
+ }
+ .fieldset input:focus + label {
+   background: #ba202b;
+   color: white;
+   font-size: 70%;
+   padding: 1px 6px;
+   z-index: 2;
+   top: 100%;
+   margin-top: -16px;
+ }
+ .fieldset label {
+   transition: background 0.2s, color 0.2s, top 0.2s, bottom 0.2s, right 0.2s, left 0.2s;
+ }
+ .fieldset input[type=textarea] {
+   resize: vertical;
+   overflow-y: scroll;
+ }
+
+/*
+ * HERO SECTION (GALLERY)
+ */

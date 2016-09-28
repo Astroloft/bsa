@@ -22,15 +22,14 @@
   {% if page.image %}<meta property="twitter:image" content="" />{% endif %}
   <meta property="twitter:url" content="{{ page.url }}" />
 
-  <link rel="icon" href="{{ site.baseurl }}/images/logo.png" />
+  <link rel="icon" href="{{ site.favicon }}" />
 
   <link rel="author" href="humans.txt" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <link rel="stylesheet" href="https://unpkg.com/tachyons@{{ site.tv }}/css/tachyons.min.css"/>
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="css/main.css">
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
 </head>

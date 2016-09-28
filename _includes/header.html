@@ -1,9 +1,15 @@
-<header class="ma4 ma5-ns">
-  <a class="f2 link white" href="{{ site.url }}">{{ site.title }} <span class="o-50">{{ site.version }}</span></a>
-  <p class="f4 mb4 db lh-copy mt1">{{ site.description }}</p>
-  <div class="mb6 db">
-    <a class="link ba mr3 br2 pa3 f5 mb3 dib white dim" href="https://github.com/tinychime/jekyons/releases/tag/{{ site.version }}">Download {{ site.title }} <span class="o-50">{{ site.version }}</span></a>
-    <a class="link ba mr3 br2 pa3 f5 mb3 dib white dim" href="https://github.com/tinychime/jekyons/blob/master/README.md">How To Get Started</span></a>
-    <a class="link ba br2 pa3 f5 dib white dim" href="https://twitter.com/intent/tweet?text=wow%20y%27all%20check%20out%20this%20siiiiick%20prototyping%20starter%20kit%20by%20%40joshosbrn%20where%20does%20he%20find%20the%20time%3F%3F%3F%20www.tinychime.github.io%2Fjekyons&source=clicktotweet&related=clicktotweet">Tweet About It</a>
+<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 fixed top-0 left-0 bg-black-60">
+
+  <a class="db dtc-l v-mid mid-gray link dim ph3 w-100 w-25-l tc tl-l mb3 mb0-l" href="index.html" title="Home">
+    <img src="{{ site.favicon }}" class="dib w2" alt="{{ site.title }} Logo">
+  </a>
+
+  <div class="db dtc-l v-mid tc tr-l">
+    {% for nav-item in site.data.nav-items %}{% if forloop.last %}
+    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
+    {% else %}
+    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
+    {% endif %}{% endfor %}
   </div>
-</header>
+
+</nav>
