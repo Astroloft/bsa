@@ -1,15 +1,24 @@
-<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 fixed top-0 left-0 bg-black-60">
+<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 absolute top-0 left-0">
 
   <a class="db dtc-l v-mid mid-gray link dim ph3 w-100 w-25-l tc tl-l mb3 mb0-l" href="index.html" title="Home">
     <img src="{{ site.favicon }}" class="dib w2" alt="{{ site.title }} Logo">
   </a>
 
   <div class="db dtc-l v-mid tc tr-l">
-    {% for nav-item in site.data.nav-items %}{% if forloop.last %}
-    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
-    {% else %}
+    {% for nav-item in site.data.nav-items %}
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
-    {% endif %}{% endfor %}
+    {% endfor %}
+    <span class="light-gray f6 f5-ns dib mr3 mr4-ns">&#124;</span>
+    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="/news" title="News">News</a>
+
+    <div id="nav" class="dib relative pointer pan hide-child ban man pan">
+      <a href="#nav" class="light-gray no-underline f6 f5-ns ttu tracked ban bg-transparent white pa3">Social Media</button>
+      <div class="child absolute man pan w-100 tc">
+        {% for social-item in site.data.social-items %}
+        <a class="db pa3 dim link bg-white black" href="{{ social-item.link }}">{{ social-item.name }}</a>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 
 </nav>

@@ -2,6 +2,7 @@
 title: Bartolome Soccer Academy
 version: "v1"
 description: ""
+favicon: assets/images/logo.png
 # baseurl: "http://astroloft.github.io/bsa" # the subpath of your site, e.g. /blog
 # url: "http://astroloft.github.io/bsa" # the base hostname & protocol for your site
 

@@ -1,41 +1,50 @@
-<section class="w-100 h-full dt bg-cv" {% include background-image.html image-url="assets/images/bg-contact.jpg" position="center bottom" %}>
-  <div class="w-100 h-full dtc v-mid"><div class="center measure-wide">
-    <p class="lh-strong f3 tc white">
+<section id="contact" class="w-100 h-full dt bg-cv bg-fixed-f no-repeat" {% include background-image.html image-url="assets/images/bg-contact.jpg" position="center bottom" %}>
+  <div class="w-100 h-full dtc v-mid bg-black-50 pt5"><div class="center measure-narrow measure-m measure-wide-l">
+    <p class="lh-strong f3 tc white mb5">
     Ready to begin your training?
     </br>
     We are too!
     </p>
 
     <form class="contact center border-box measure-narrow measure-m measure-wide-l" action="" method="post">
-      <div class="mb3 w-100">
-        <div class="bg-white black dib-ns br3 relative lh-solid overflow-hidden fieldset">
-          <input class="w-100 br3 relative top-0 left-0 pa2" id="first-name" type="firstname" name="firstname" required>
+      <div class="mb3 w-100 cf dt-ns">
+        <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset mb2 mbn-ns db dtc-ns">
+          <input class="w-100 ban br3 relative top-0 left-0 pa2" id="first-name" type="text" name="firstname" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="firstname">First Name</label>
         </div>
-        <div class="bg-white black dib-ns br3 relative lh-solid overflow-hidden fieldset">
-          <input class="w-100 br3 relative top-0 left-0 pa2" id="last-name" type="name" name="lastname" required>
+        <div class="dn dtc-ns" style="width: 1em" >
+        </div>
+        <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset db dtc-ns">
+          <input class="w-100 ban br3 relative top-0 left-0 pa2" id="last-name" type="text" name="lastname" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="lastname">Last Name</label>
         </div>
       </div>
-      <div class="mb3 w-100">
-        <div class="bg-white black dib-ns br3 relative lh-solid overflow-hidden fieldset">
-          <input class="w-100 br3 relative top-0 left-0 pa2" id="email" type="email" name="email" required>
+      <div class="mb3 w-100 cf dt-ns">
+        <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset mb2 mbn-ns db dtc-ns">
+          <input class="w-100 ban br3 relative top-0 left-0 pa2" id="email" type="email" name="email" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="email">Email</label>
         </div>
-        <div class="bg-white black br3 dib-ns relative lh-solid overflow-hidden fieldset">
-          <input class="w-100 br3 relative top-0 left-0 pa2" id="phone" type="tel" name="phone" required>
+        <div class="dn dtc-ns" style="width: 1em" >
+        </div>
+        <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset db dtc-ns">
+          <input class="w-100 ban br3 relative top-0 left-0 pa2" id="phone" type="tel" name="phone" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="phone">Phone</label>
         </div>
       </div>
-      <div class="bg-white black br3 w-100 mb3 relative lh-solid overflow-hidden fieldset">
-        <input class="w-100 br3 relative top-0 left-0 pa2" id="interest" type="text" name="interest" required>
-        <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="interest">Programs of Interest</label>
+      <div class="bg-white black ban br3 w-100 mb3 relative lh-solid">
+        <select multiple class="programs ban w-100 br3 relative top-0 left-0 pa2" name="Programs" title="Select multiple programs using CMD or CTRL key">
+          <optgroup label="Program(s) of Interest">
+            {% for program in site.data.programs %}
+            <option value="{{ program.short }}">{{ program.name }}</option>
+            {% endfor %}
+          </optgroup>
+        </select>
       </div>
-      <div class="bg-white black br3 w-100 mb3 relative lh-solid overflow-hidden fieldset">
-        <input class="w-100 br3 relative top-0 left-0 pa2 h5 db" id="comments" type="textarea" name="comments" required title="If not, just type in "N/A"">
+      <div class="bg-white black ban br3 w-100 mb3 relative lh-solid overflow-hidden fieldset">
+        <textarea class="w-100 ban br3 relative top-0 left-0 pa2 h3 h4-m h5-l db" id="comments" type="textarea" name="comments" required title="If not, just type in "N/A""></textarea>
         <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="comments">Any Questions or Comments?</label>
       </div>
-      <div class="tc">
+      <div class="tc mb4">
         <input class="br-pill bg-green-b white pa3" type="submit" value="Submit" text="Submit">
       </div>
     </form>

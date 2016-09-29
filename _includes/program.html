@@ -1,0 +1,28 @@
+<section id="programs" class="w-100 h-full dt bg-cv bg-fixed-f no-repeat" {% include background-image.html image-url="assets/images/bg-programs.jpg" position="center bottom" %}>
+  <div class="w-100 h-full dtc v-mid bg-black-50 pt5"><div class="center measure-narrow measure-m measure-wide-ns flex-row">
+
+    {% for program in site.data.programs %}
+    {% capture int %}{% cycle "odd", "even" %}{% endcapture %}
+    {% if int == "odd" %}
+    <div class="flex flex-column flex-row-ns items-center mb6 relative">
+      <img src="assets/icons/{{ program.icon }}.svg" alt="{{ program.name }} Icon" class="w4 h4 w5-ns h5-ns fill-white" />
+      <div class="">
+        <h2 class="f5 f4-ns tl lh-solid">{{ program.name }}</h2>
+        <p class="lh-copy tl">{{ program.description }}</p>
+        <div class="tr"><a href="#contact" class="link white flex flex-row items-center"><span>Click for bookings or inquiries </span><span><img src="assets/icons/right.png" class="br-100 ml2 pa1 bg-white ba b--white w1 h1" alt=">" /></span></a></div>
+      </div>
+    </div>
+    {% else if int == "even" %}
+    <div class="flex flex-column fd-rev-ns items-center mb6 relative">
+      <img src="assets/icons/{{ program.icon }}.svg" alt="{{ program.name }} Icon" class="w4 h4 w5-ns h5-ns fill-white" />
+      <div class="">
+        <h2 class="f5 f4-ns tr lh-solid">{{ program.name }}</h2>
+        <p class="lh-copy tr">{{ program.description }}</p>
+        <div class="tl"><a href="#contact" class="link white flex flex-row items-center"><span>Click for bookings or inquiries </span><span><img src="assets/icons/right.png" class="br-100 ml2 pa1 bg-white ba b--white w1 h1" alt=">" /></span></a></div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div></div>
+</section>

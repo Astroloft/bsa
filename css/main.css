@@ -1,3 +1,64 @@
+/*
+ * Fix Tachyons Bugs
+ */
+
+.bg-cv {
+  background-size: cover;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.hide-child .child {
+  display: none;
+}
+.hide-child:hover  .child,
+.hide-child:focus  .child,
+.hide-child:active .child
+.hide-child:target .child {
+  display: block;
+}
+
+/*
+   FLEX DIRECTION
+*/
+.fd-row { flex-direction: row; }
+.fd-rev { flex-direction: row-reverse; }
+.fd-col { flex-direction: column; }
+.fd-colrev { flex-direction: column-reverse; }
+.fd-i { flex-direction: inherit; }
+@media screen and (min-width: 48em) {
+ .fd-row-ns { flex-direction: row; }
+ .fd-rev-ns { flex-direction: row-reverse; }
+ .fd-col-ns { flex-direction: column; }
+ .fd-colrev-ns { flex-direction: column-reverse; }
+ .fd-i-ns { flex-direction: inherit; }
+}
+@media screen and (min-width:48em) and (max-width: 64em) {
+ .fd-row-m { flex-direction: row; }
+ .fd-rev-m { flex-direction: row-reverse; }
+ .fd-col-m { flex-direction: column; }
+ .fd-colrev-m { flex-direction: column-reverse; }
+ .fd-i-m { flex-direction: inherit; }
+}
+@media screen and (min-width: 64em) {
+ .fd-row-l { flex-direction: row; }
+ .fd-rev-l { flex-direction: row-reverse; }
+ .fd-col-l { flex-direction: column; }
+ .fd-colrev-l { flex-direction: column-reverse; }
+ .fd-i-l { flex-direction: inherit; }
+}
+
+/*
+ * Custom
+ */
+
 nav {
   z-index: 9;
 }
@@ -14,8 +75,39 @@ nav {
   width: 400%;
 }
 
+@-webkit-keyframes load {
+  0%   { width: 0; }
+  100% { width: 100%; }
+}
+@keyframes load {
+  0%   { width: 0; }
+  100% { width: 100%; }
+}
+
+.load {
+  animation: load 5s linear infinite forwards;
+}
+
 .overflow-hidden {
-  overflow-x: hidden;
+  overflow: hidden;
+}
+
+.no-repeat {
+  background-repeat: no-repeat;
+}
+
+.bg-fixed {
+  background-attachment: fixed;
+}
+
+@media (pointer:fine) {
+  .bg-fixed-f {
+    background-attachment: fixed;
+  }
+}
+
+.programs {
+  -webkit-appearance: none;
 }
 
 .bg-gray-b {
@@ -53,37 +145,66 @@ nav {
 /*
  * CONTACT SECTION
  */
-
- .fieldset input {
+ .fieldset input,
+ .fieldset textarea {
    border: 2px solid gray;
    background: none;
    z-index: 1;
    outline: 0;
  }
- .fieldset input:valid {
+ .fieldset input:valid,
+ .fieldset textarea:valid {
    background: white;
  }
- .fieldset input:focus {
-   border-color: #ba202b;
-   padding: 4px 6px 20px 6px;
+ .fieldset input:focus,
+ .fieldset textarea:focus {
+   border-color: #7da9da;
  }
- .fieldset input:focus + label {
-   background: #ba202b;
-   color: white;
-   font-size: 70%;
-   padding: 1px 6px;
+ .fieldset input:focus + label,
+ .fieldset textarea:focus + label {
+   background: none;
+   color: #111;
+   font-size: 75%;
+   text-align: right;
    z-index: 2;
    top: 100%;
-   margin-top: -16px;
+   margin-top: -2em;
+   margin-left: -1.125em;
  }
  .fieldset label {
    transition: background 0.2s, color 0.2s, top 0.2s, bottom 0.2s, right 0.2s, left 0.2s;
  }
- .fieldset input[type=textarea] {
+ .fieldset textarea {
    resize: vertical;
    overflow-y: scroll;
+ }
+ .fieldset select {
+   -webkit-appearance: none;
+      -moz-appearance: none;
+           appearance: none;
+
  }
 
 /*
  * HERO SECTION (GALLERY)
  */
+
+.hero-bg-1 {
+  background-image: url(../assets/images/hero-1.jpg);
+  background-position: center center;
+}
+
+.hero-bg-2 {
+  background-image: url(../assets/images/hero-2.jpg);
+  background-position: center center;
+}
+
+.hero-bg-3 {
+  background-image: url(../assets/images/hero-3.jpg);
+  background-position: center center;
+}
+
+.hero-bg-4 {
+  background-image: url(../assets/images/hero-4.jpg);
+  background-position: center center;
+}
