@@ -7,7 +7,7 @@ favicon: assets/images/logo.png
 # url: "http://astroloft.github.io/bsa" # the base hostname & protocol for your site
 
 # Tachyons Version
-tv: "4.4.2"
+tv: "4.5.3"
 
 # Build settings
 markdown: kramdown
