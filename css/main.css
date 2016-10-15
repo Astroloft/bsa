@@ -203,6 +203,10 @@
  .fd-colrev-l { flex-direction: column-reverse; }
 }
 
+.dib {
+  display: inline-block;
+}
+
 /*
  * Custom
  */
@@ -343,4 +347,56 @@ nav {
 .hero-bg-4 {
   background-image: url(../assets/images/hero-4.jpg);
   background-position: center center;
+}
+
+/*
+ * OFFCANVAS MENU
+ */
+.b-bun {
+  background: #fff;
+  position: relative;
+  transition: $b-transition;
+}
+
+.b-bun--top {
+  height: 2px;
+  top: 0;
+  width: 25px;
+}
+
+.b-bun--mid {
+  height: 2px;
+  top: 8px;
+  width: 25px;
+}
+
+.b-bun--bottom {
+  height: 2px;
+  top: 16px;
+  width: 25px;
+}
+
+.b-nav.open {
+  transition: slideInLeft;
+  display: block;
+}
+
+.b-menu.open .b-bun--top {
+  top: 9px;
+  transform: rotate(45deg);
+}
+
+.b-menu.open .b-bun--mid {
+  opacity: 0;
+}
+
+.b-menu.open .b-bun--bottom {
+  top: 5px;
+  transform: rotate(-45deg);
+}
+
+.b-main-nav.open {
+  position: fixed;
+  top: 0;
+  left: 0;
 }

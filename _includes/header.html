@@ -1,18 +1,18 @@
-<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 absolute top-0 left-0">
+<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 absolute top-0 left-0 z-5 b-main-nav"><div class="dtc v-mid">
 
-  <a class="db dtc-l v-mid mid-gray link dim ph3 w-100 w-25-l tc tl-l mb3 mb0-l" href="index.html" title="Home">
+  <a class="fl mid-gray link dim ph3 tc tl-l mb3 mb0-l bg-brand" href="index.html" title="Home">
     <img src="{{ site.favicon }}" class="dib w2" alt="{{ site.title }} Logo">
   </a>
 
-  <div class="db dtc-l v-mid tc tr-l">
+  <div class="dn fr-l">
     {% for nav-item in site.data.nav-items %}
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
     {% endfor %}
     <span class="light-gray f6 f5-ns dib mr3 mr4-ns">&#124;</span>
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="/news" title="News">News</a>
 
-    <div id="nav" class="dib relative pointer pan hide-child ban man pan">
-      <a href="#nav" class="light-gray no-underline f6 f5-ns ttu tracked ban bg-transparent white pa3">Social Media</button>
+    <div id="nav" class="dib relative pointer pan hide-child man pan">
+      <a href="#nav" class="light-gray no-underline f6 f5-ns ttu tracked white pa3">Social Media</a>
       <div class="child absolute man pan w-100 tc">
         {% for social-item in site.data.social-items %}
         <a class="db pa3 dim link bg-white black" href="{{ social-item.link }}">{{ social-item.name }}</a>
@@ -21,4 +21,31 @@
     </div>
   </div>
 
-</nav>
+  <div class="b-menu man pa3 relative fr dn-l">
+    <div class="b-bun b-bun--top"></div>
+    <div class="b-bun b-bun--mid"></div>
+    <div class="b-bun b-bun--bottom"></div>
+  </div>
+
+</div></nav>
+
+<div class="b-nav dn w-100 h-full fixed top-0 left-0 z-4"><div class="dt h-full w-100 bg-near-black">
+
+  <div class="dtc v-mid tl pl3">
+    {% for nav-item in site.data.nav-items %}
+    <a data-scroll class="link dim white ttu tracked f6 f5-ns mv3 db" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
+    {% endfor %}
+
+    <hr class="mv3 mr3" />
+
+    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns db mv3" href="/news" title="News">News</a>
+
+    <div id="nav" class="db relative pointer pan ban man pan">
+      {% for social-item in site.data.social-items %}
+      <a href="{{ social-item.link }}" class="link dim white ttu tracked f6 f5-ns mv3 db ttu tracked ban">{{ social-item.name }}</a>
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+
+</div></div>
