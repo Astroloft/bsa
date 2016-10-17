@@ -1,15 +1,29 @@
 ---
 layout: default
 ---
-<div class="pv5 w-100">
-  <div class="bg-gray-b">
-    <h1 class="f1 f2-ns ttu lh-solid">News and Updates</h1>
+<div class="pv5 pv6-ns w-100">
+  <div class="bg-gray-b measure-narrow measure-m measure-wide-ns center">
+    <h1 class="f3 f2-m f1-l ttu tc lh-solid">News and Updates</h1>
   </div>
 
-  <div class="flex flex-column flex-row-ns items-center">
-    <div class="measure-narrow measure-m measure-wide-l">
-      <h2 class="f3 f2-ns ttu lh-title blue-b bb b1">Heading 1</h2>
-    </div>
+  <div class="measure-narrow measure-m measure-wide-ns center flex flex-column items-center content-center">
+
+    {% for news-item in site.news-items %}
+      <div class="w-100 flex flex-row items-start justify-start content-center">
+        <div class="">
+          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}">{% endif %}
+            <img src="{{ news-item.image }}" alt="{{ news-item.heading }}" class="tc"/>
+          {% if news-item.link %}</a>{% endif %}
+        </div>
+        <div class="">
+          <h2 class="f4 f3-ns ttu lh-title blue-b bb b1">{{ news-item.heading }}</h2>
+          <p>
+            {{ content }}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+
   </div>
 </div>
 

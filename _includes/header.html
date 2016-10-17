@@ -1,10 +1,10 @@
-<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 absolute top-0 left-0 z-5 b-main-nav"><div class="dtc v-mid">
+<nav class="dt w-100 border-box pa3 ph2 ph5-ns mb3 absolute top-0 left-0 z-5 b-main-nav"><div class="flex flex-row justify-between content-center items-center">
 
-  <a class="fl mid-gray link dim ph3 tc tl-l mb3 mb0-l bg-brand" href="index.html" title="Home">
-    <img src="{{ site.favicon }}" class="dib w2" alt="{{ site.title }} Logo">
+  <a class="mid-gray link dim bg-brand" href="index.html" title="Home">
+    <img src="{{ site.favicon }}" class="dib w2 w3-ns" alt="{{ site.title }} Logo">
   </a>
 
-  <div class="dn fr-l">
+  <div class="dn db-l">
     {% for nav-item in site.data.nav-items %}
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
     {% endfor %}
@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <div class="b-menu man pa3 relative fr dn-l">
+  <div class="b-menu relative border-box pa3 pb4 db dn-l self-center">
     <div class="b-bun b-bun--top"></div>
     <div class="b-bun b-bun--mid"></div>
     <div class="b-bun b-bun--bottom"></div>

@@ -15,6 +15,10 @@ markdown: kramdown
 # Exclude this stuff
 exclude: [node_modules, gulpfile.js]
 
+# Collections
+collections:
+- news-items
+
 # Jekyll Get TK
 jekyll_get:
   data: team
