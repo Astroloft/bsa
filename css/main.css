@@ -234,7 +234,7 @@ nav {
   100% { width: 100%; }
 }
 .load {
-  animation: load 5s linear infinite forwards;
+  animation: load 5s infinite forwards;
 }
 
 .overflow-hidden {

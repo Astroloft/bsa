@@ -2,7 +2,9 @@ function run(interval, frames) {
     var int = 2;
 
     function func() {
+        document.getElementById("load").classList.toggle('load');
         document.getElementById("gallery").className = "w-100 h-full dt bg-cv man pan bg-fixed-f no-repeat hero-bg-"+int;
+        document.getElementById("load").classList.toggle('load');
         int++;
         if(int === frames + 1) { int = 1; }
     }
