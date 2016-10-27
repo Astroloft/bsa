@@ -190,17 +190,25 @@
  */
 .fd-rev { flex-direction: row-reverse; }
 .fd-colrev { flex-direction: column-reverse; }
+.fd-row { flex-direction: row; }
+.fd-col { flex-direction: column; }
 @media screen and (min-width: 48em) {
- .fd-rev-ns { flex-direction: row-reverse; }
- .fd-colrev-ns { flex-direction: column-reverse; }
+  .fd-rev-ns { flex-direction: row-reverse; }
+  .fd-colrev-ns { flex-direction: column-reverse; }
+  .fd-row-ns { flex-direction: row; }
+  .fd-col-ns { flex-direction: column; }
 }
 @media screen and (min-width:48em) and (max-width: 64em) {
- .fd-rev-m { flex-direction: row-reverse; }
- .fd-colrev-m { flex-direction: column-reverse; }
+  .fd-rev-m { flex-direction: row-reverse; }
+  .fd-colrev-m { flex-direction: column-reverse; }
+  .fd-row-m { flex-direction: row; }
+  .fd-col-m { flex-direction: column; }
 }
 @media screen and (min-width: 64em) {
- .fd-rev-l { flex-direction: row-reverse; }
- .fd-colrev-l { flex-direction: column-reverse; }
+  .fd-rev-l { flex-direction: row-reverse; }
+  .fd-colrev-l { flex-direction: column-reverse; }
+  .fd-row-l { flex-direction: row; }
+  .fd-col-l { flex-direction: column; }
 }
 
 .dib {
@@ -223,18 +231,6 @@ nav {
 }
 .w-400 {
   width: 400%;
-}
-
-@-webkit-keyframes load {
-  0%   { width: 0; }
-  100% { width: 100%; }
-}
-@keyframes load {
-  0%   { width: 0; }
-  100% { width: 100%; }
-}
-.load {
-  animation: load 5s infinite forwards;
 }
 
 .overflow-hidden {

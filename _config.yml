@@ -17,7 +17,8 @@ exclude: [node_modules, gulpfile.js]
 
 # Collections
 collections:
-- news-items
+  - news-items
+  - programs
 
 # Jekyll Get TK
 jekyll_get:
