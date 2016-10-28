@@ -1,4 +1,5 @@
 ---
+title: Hello World
 heading: Hello World
 link: http://prvw.xyz/
 image: https://unsplash.it/400/300

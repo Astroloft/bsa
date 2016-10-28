@@ -1,4 +1,5 @@
 ---
+title: 2 Small
 name: Small Group Sessions
 short: small
 icon: group-small

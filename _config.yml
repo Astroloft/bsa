@@ -1,26 +1,27 @@
-# Site settings
+---
 title: Bartolome Soccer Academy
-version: "v1"
-description: ""
-favicon: assets/images/logo.svg
-# baseurl: "http://astroloft.github.io/bsa" # the subpath of your site, e.g. /blog
-# url: "http://astroloft.github.io/bsa" # the base hostname & protocol for your site
-
-# Tachyons Version
-tv: "4.5.3"
-
-# Build settings
-markdown: kramdown
-
-# Exclude this stuff
-exclude: [node_modules, gulpfile.js]
-
-# Collections
+timezone: UTC
 collections:
-  - news-items
-  - programs
-
-# Jekyll Get TK
+  news-items:
+    title: News Items
+    output: false
+  posts:
+    title: Posts
+    output: true
+  programs:
+    title: Programs
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+version: v1
+description: ''
+favicon: assets/images/logo.svg
+tv: 4.5.3
+markdown: kramdown
+exclude:
+- node_modules
+- gulpfile.js
 jekyll_get:
   data: team
-  json: 'https://18f.gsa.gov/hub/api/team/'
+  json: https://18f.gsa.gov/hub/api/team/
