@@ -1,6 +1,6 @@
 ---
 title: Bartolome Soccer Academy
-timezone: UTC
+timezone: Europe/Berlin
 collections:
   news-items:
     title: News Items
@@ -15,7 +15,8 @@ collections:
     title: Uploads
     output: true
 version: v1
-description: 
+description: Elevate your game with the soccer academy led by championship-winning
+  soccer star Chad Bartolome.
 favicon: assets/images/logo.svg
 tv: 4.5.3
 markdown: kramdown
