@@ -15,7 +15,7 @@ collections:
     title: Uploads
     output: true
 version: v1
-description: ''
+description: 
 favicon: assets/images/logo.svg
 tv: 4.5.3
 markdown: kramdown
