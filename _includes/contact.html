@@ -7,7 +7,7 @@
     </p>
 
     <form class="contact center border-box measure-narrow measure-m measure-wide-l" action="https://formspree.io/info@bartlomesocceracademy.com" method="post">
-      <div class="mb3 w-100 cf dt-ns">
+      <div class="mb2 w-100 cf dt-ns">
         <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset mb2 mbn-ns db dtc-ns">
           <input class="w-100 ban br3 relative top-0 left-0 pa2" id="first-name" type="text" name="firstname" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="firstname">First Name</label>
@@ -19,7 +19,7 @@
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="lastname">Last Name</label>
         </div>
       </div>
-      <div class="mb3 w-100 cf dt-ns">
+      <div class="mb2 w-100 cf dt-ns">
         <div class="bg-white black ban br3 relative lh-solid overflow-hidden fieldset mb2 mbn-ns db dtc-ns">
           <input class="w-100 ban br3 relative top-0 left-0 pa2" id="email" type="email" name="_replyto" required>
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="email">Email</label>
@@ -31,10 +31,10 @@
           <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="phone">Phone</label>
         </div>
       </div>
-      <div class="bg-white black ban br3 w-100 mb3 relative lh-solid">
+      <div class="bg-white black ban br3 w-100 mb2 relative lh-solid">
         <select multiple class="programs ban w-100 br3 relative top-0 left-0 pa2" name="Programs" title="Select multiple programs using CMD or CTRL key">
           <optgroup label="Program(s) of Interest">
-            {% for program in site.data.programs %}
+            {% for program in site.programs %}
             <option value="{{ program.short }}">{{ program.name }}</option>
             {% endfor %}
           </optgroup>
@@ -45,7 +45,7 @@
         <label class="w-100 pa2 mid-gray absolute top-0 bottom-0 left-0" for="comments">Any Questions or Comments?</label>
       </div>
       <div class="tc mb4">
-        <input class="br-pill bg-blue-b white pa3" type="submit" value="Send" text="Submit">
+        <input class="br-pill bg-blue-b white pa3 ban" type="submit" value="Send" text="Submit">
       </div>
     </form>
   </div></div>

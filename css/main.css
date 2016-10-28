@@ -281,6 +281,32 @@ nav {
   color: #007877;
 }
 
+.w-3 {
+  width: 3rem;
+}
+
+.w-5 {
+  width: 5rem;
+}
+
+.w-6 {
+  width: 6rem;
+}
+
+@media screen and (min-width: 64em) {
+  .w-3-l {
+    width: 3rem;
+  }
+
+  .w-5-l {
+    width: 5rem;
+  }
+
+  .w-6-l {
+    width: 6rem;
+  }
+}
+
 /*
  * CONTACT SECTION
  */
@@ -370,6 +396,10 @@ nav {
   height: 2px;
   top: 16px;
   width: 25px;
+}
+
+.b-nav {
+  display: none;
 }
 
 .b-nav.open {
