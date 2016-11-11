@@ -9,19 +9,19 @@ layout: default
   <div class="measure-narrow measure-m measure-wide-ns center flex flex-column items-center content-center">
 
     {% for news-item in site.news-items %}
-      <div class="w-100 flex flex-row items-start justify-start content-center">
+
+      <div class="w-100 flex flex-row items-center justify-start content-center">
         <div class="">
-          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}">{% endif %}
-            <img src="{{ news-item.image }}" alt="{{ news-item.heading }}" class="tc"/>
-          {% if news-item.link %}</a>{% endif %}
+          <img src="{{ news-item.image }}" alt="{{ news-item.heading }}" />
         </div>
-        <div class="">
-          <h2 class="f4 f3-ns ttu lh-title blue-b bb b1">{{ news-item.heading }}</h2>
+        <div class="w-auto">
+          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<h2 class="f4 f3-ns ttu lh-title blue-b bb b1">{{ news-item.heading }}</h2>{% if news-item.link %}</a>{% endif %}
           <p>
-            {{ content }}
+            {{ news-item.content }}
           </p>
         </div>
       </div>
+
     {% endfor %}
 
   </div>

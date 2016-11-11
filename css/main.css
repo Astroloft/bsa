@@ -293,7 +293,67 @@ nav {
   width: 6rem;
 }
 
-@media screen and (min-width: 64em) {
+.w7 {
+  width: 32rem;
+}
+
+.w700 {
+  width: 700rem;
+}
+
+@media screen and (min-width:30em) {
+  .w-3-ns {
+    width: 3rem;
+  }
+
+  .w-5-ns {
+    width: 5rem;
+  }
+
+  .w-6-ns {
+    width: 6rem;
+  }
+
+  .w7-ns {
+    width: 32rem;
+  }
+
+  .w8-ns {
+    width: 64rem;
+  }
+
+  .w700-ns {
+    width: 700rem;
+  }
+}
+
+@media screen and (min-width:30em) and (max-width:60em) {
+  .w-3-m {
+    width: 3rem;
+  }
+
+  .w-5-m {
+    width: 5rem;
+  }
+
+  .w-6-m {
+    width: 6rem;
+  }
+
+  .w7-m {
+    width: 32rem;
+  }
+
+  .w8-m {
+    width: 64rem;
+  }
+
+  .w700-m {
+    width: 700rem;
+  }
+}
+
+@media screen and (maxwidth) (min-width: 64em) {
   .w-3-l {
     width: 3rem;
   }
@@ -304,6 +364,18 @@ nav {
 
   .w-6-l {
     width: 6rem;
+  }
+
+  .w7-l {
+    width: 32rem;
+  }
+
+  .w8-l {
+    width: 64rem;
+  }
+
+  .w700-l {
+    width: 700rem;
   }
 }
 
