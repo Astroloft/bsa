@@ -15,8 +15,9 @@ collections:
     title: Uploads
     output: true
 version: v1
-description: Elevate your game with the soccer academy led by championship-winning
-  soccer star Chad Bartolome.
+description: Bartlomé Soccer Academy offers a wide range of programs including 1 on
+  1 and Small Group private sessions, Large Group Soccer Courses, Team & Coaches Clinics
+  and week long Skills Camps. Rest assured, we have what you're looking for!
 favicon: assets/images/logo.svg
 tv: 4.5.3
 markdown: kramdown
