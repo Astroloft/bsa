@@ -1,4 +1,4 @@
-# Batholome Soccer Academy
+# Bartlomé Soccer Academy
 
 ## Install
 ```
