@@ -1,4 +1,5 @@
 ---
+title: 4 Camps
 name: Skill Camps
 short: camps
 icon: camp

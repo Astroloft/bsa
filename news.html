@@ -1,21 +1,22 @@
 ---
 layout: default
 ---
+
 <div class="pv5 pv6-ns w-100">
-  <div class="bg-gray-b measure-narrow measure-m measure-wide-ns center">
-    <h1 class="f3 f2-m f1-l ttu tc lh-solid">News and Updates</h1>
+  <div class="bg-gray-b measure-narrow measure-ns center">
+    <h1 class="f4 f3-m f2-l ttu tc lh-solid">News and Updates</h1>
   </div>
 
-  <div class="measure-narrow measure-m measure-wide-ns center flex flex-column items-center content-center">
+  <div class="measure measure-wide-ns db center">
 
     {% for news-item in site.news-items %}
 
-      <div class="w-100 flex flex-row items-center justify-start content-center">
-        <div class="">
-          <img src="{{ news-item.image }}" alt="{{ news-item.heading }}" />
+      <div class="dt mw6 center pt0 pb5 pv4-m pv5-l">
+        <div class="db dtc-ns v-top-ns">
+          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<img src="{{ news-item.image }}" alt="{{ news-item.heading }}" class="w-100 mw7 w5-ns" />{% if news-item.link %}</a>{% endif %}
         </div>
-        <div class="w-auto">
-          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<h2 class="f4 f3-ns ttu lh-title blue-b bb b1">{{ news-item.heading }}</h2>{% if news-item.link %}</a>{% endif %}
+        <div class="db dtc-ns v-top ph2 pr0-ns pl3-ns measure">
+          {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<h2 class="f4 f3-ns ttu lh-title blue-b bb b1 mv3 mv0-ns">{{ news-item.heading }}</h2>{% if news-item.link %}</a>{% endif %}
           <p>
             {{ news-item.content }}
           </p>
