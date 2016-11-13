@@ -233,6 +233,30 @@ nav {
   width: 400%;
 }
 
+@media screen and (min-width:30em) {
+  .h-full-ns {
+    height: 100vh;
+  }
+  .w-full-ns {
+    width: 100vw;
+  }
+  .w-400-ns {
+    width: 400%;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .h-full-l {
+    height: 100vh;
+  }
+  .w-full-l {
+    width: 100vw;
+  }
+  .w-400-l {
+    width: 400%;
+  }
+}
+
 .overflow-hidden {
   overflow: hidden;
 }
@@ -353,7 +377,7 @@ nav {
   }
 }
 
-@media screen and (maxwidth) (min-width: 64em) {
+@media screen and (min-width: 60em) {
   .w-3-l {
     width: 3rem;
   }
