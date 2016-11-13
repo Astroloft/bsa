@@ -7,11 +7,11 @@ layout: default
     <h1 class="f4 f3-m f2-l ttu tc lh-solid">News and Updates</h1>
   </div>
 
-  <div class="measure measure-wide-ns db center">
+  <div class="db center">
 
     {% for news-item in site.news-items %}
 
-      <div class="dt mw6 center pt0 pb5 pv4-m pv5-l">
+      <div class="dt center pt0 pb5 pv4-m pv5-l">
         <div class="db dtc-ns v-top-ns">
           {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<img src="{{ news-item.image }}" alt="{{ news-item.heading }}" class="w-100 mw7 w5-ns" />{% if news-item.link %}</a>{% endif %}
         </div>
