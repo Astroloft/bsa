@@ -46,16 +46,16 @@ nav:
 defaults:
   -
     scope:
-      path: "news-items"
-      type: "pages"
+      path: ""
+      type: "news-items"
     values:
       heading:
       link:
       image:
   -
     scope:
-      path: "programs"
-      type: "pages"
+      path: ""
+      type: "programs"
     values:
       name:
       short:
