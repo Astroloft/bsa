@@ -47,6 +47,7 @@ defaults:
   -
     scope:
       path: "news-items"
+      type: "pages"
     values:
       heading:
       link:
@@ -54,6 +55,7 @@ defaults:
   -
     scope:
       path: "programs"
+      type: "pages"
     values:
       name:
       short:
