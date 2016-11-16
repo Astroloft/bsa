@@ -5,17 +5,17 @@
   </a>
 
   <div class="dn db-l">
-    {% for nav-item in site.data.nav-items %}
-    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ nav-item.link | replace: '/#', '#' }}" title="{{ nav-item.name }}">{{ nav-item.name }}</a>
+    {% for item in site.nav %}
+    <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="{{ item.link | replace: '/#', '#' }}" title="{{ item.name }}">{{ item.name }}</a>
     {% endfor %}
     <span class="light-gray f6 f5-ns dib mr3 mr4-ns">&#124;</span>
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="news.html" title="News">News</a>
 
     <div id="nav" class="dib relative pointer pan hide-child man pan">
-      <a href="#nav" class="light-gray no-underline f6 f5-ns ttu tracked white pa3">Social Media</a>
+      <a href="#nav" class="light-gray no-underline f6 f5-ns ttu tracked white pa3 mb3">Social Media</a>
       <div class="child absolute man pan w-100 tc">
-        {% for social-item in site.data.social-items %}
-        <a class="db pa3 dim link bg-white black" href="{{ social-item.link }}">{{ social-item.name }}</a>
+        {% for item in site.social %}
+        <a class="db pa3 dim link bg-white black" href="{{ item.link }}">{{ item.name }}</a>
         {% endfor %}
       </div>
     </div>
