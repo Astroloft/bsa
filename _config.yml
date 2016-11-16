@@ -2,9 +2,6 @@
 title: Bartlomé Soccer Academy
 timezone: Europe/Berlin
 collections:
-  about:
-    title: About
-    output: true
   news-items:
     title: News Items
     output: false
