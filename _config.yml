@@ -14,6 +14,22 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: news-items
+  values:
+    heading: 
+    link: 
+    image: 
+- scope:
+    path: ''
+    type: programs
+  values:
+    name: 
+    short: 
+    icon: 
+    cta: 
 version: v1
 description: Bartlomé Soccer Academy offers a wide range of programs including 1 on
   1 and Small Group private sessions, Large Group Soccer Courses, Team & Coaches Clinics
@@ -28,36 +44,18 @@ jekyll_get:
   data: team
   json: https://18f.gsa.gov/hub/api/team/
 social:
-  - name: Facebook
-    link: https://www.facebook.com/Bartlom%C3%A9-Soccer-Academy-1699026550336895/
-  - name: YouTube
-    link: http://youtube.com/bartolomesocceracademy
-  - name: Instagram
-    link: http://instagram.com/bartlomesocceracademy
+- name: Facebook
+  link: https://www.facebook.com/Bartlom%C3%A9-Soccer-Academy-1699026550336895/
+- name: YouTube
+  link: http://youtube.com/bartolomesocceracademy
+- name: Instagram
+  link: http://instagram.com/bartlomesocceracademy
 nav:
-  - name: Programs
-    link: /#programs
-  - name: About
-    link: /#about-bsa
-  - name: Staff
-    link: /#about-staff
-  - name: Contact
-    link: /#contact
-defaults:
-  -
-    scope:
-      path: ""
-      type: "news-items"
-    values:
-      heading:
-      link:
-      image:
-  -
-    scope:
-      path: ""
-      type: "programs"
-    values:
-      name:
-      short:
-      icon:
-      cta:
+- name: Programs
+  link: "/#programs"
+- name: About
+  link: "/#about-bsa"
+- name: Staff
+  link: "/#about-staff"
+- name: Contact
+  link: "/#contact"
