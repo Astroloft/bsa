@@ -11,9 +11,6 @@ collections:
   programs:
     title: Programs
     output: false
-  social:
-    title: Social
-    output: true
   uploads:
     title: Uploads
     output: true
