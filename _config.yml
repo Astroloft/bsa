@@ -33,8 +33,7 @@ defaults:
 version: v1
 description: Bartlomé Soccer Academy offers a wide range of programs including 1 on
   1 and Small Group private sessions, Large Group Soccer Courses, Team & Coaches Clinics
-  and week long Skills Camps. Rest assured, when it comes to Soccer, we have what
-  you're looking for!
+  and week long Skills Camps. Rest assured, we have what you're looking for!
 favicon: assets/images/logo.svg
 tv: 4.5.3
 markdown: kramdown
@@ -48,7 +47,7 @@ social:
 - name: Facebook
   link: https://www.facebook.com/Bartlom%C3%A9-Soccer-Academy-1699026550336895/
 - name: YouTube
-  link: http://youtube.com/bartolomesocceracademy
+  link: http://youtube.com/bartlomesocceracademy
 - name: Instagram
   link: http://instagram.com/bartlomesocceracademy
 nav:
