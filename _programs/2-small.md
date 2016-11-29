@@ -1,6 +1,6 @@
 ---
 title: 2 Small
-position: 3
+position: 1
 name: Small Group Sessions
 short: small
 icon: group-small

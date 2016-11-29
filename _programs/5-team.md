@@ -1,6 +1,6 @@
 ---
 title: 5 Team
-position: 1
+position: 2
 name: Team Clinics
 short: team
 icon: clinic
