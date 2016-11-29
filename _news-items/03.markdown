@@ -1,6 +1,7 @@
 ---
 title: '03'
 date: 2016-11-29 16:36:00 +01:00
+position: 0
 heading: Third
 ---
 
