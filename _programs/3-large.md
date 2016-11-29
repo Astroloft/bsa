@@ -1,6 +1,6 @@
 ---
 title: 3 Large
-position: 3
+position: 2
 name: Large Group Sessions
 short: large
 icon: group-large
