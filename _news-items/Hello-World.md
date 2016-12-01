@@ -1,8 +1,11 @@
 ---
-title: Hello World
-heading: Hello World
-link: http://prvw.xyz/
-image: https://placeholdit.imgix.net/~text?txtsize=33&txt=Hello%20World&w=400&h=300
+title: Wednesday Winter
+date: 2016-11-29 16:30:00 +01:00
+position: 2
+heading: Wednesday Winter Soccer Course 2017
+image: "/uploads/Screen%20Shot%202016-11-23%20at%2011.46.43-bb3020.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wednesday Soccer courses specifically for SIS students aged 8-12 years for the Winter starting in January. See photo for all information.
+
+Email us at bartlomesocceracademy@gmail.com to register now!
