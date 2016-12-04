@@ -1,5 +1,5 @@
 ---
-title: 'Wednesday Winter'
+title: Wednesday Winter
 date: 2016-11-29 16:30:00 +01:00
 position: 2
 heading: Wednesday Winter Soccer Course 2017
