@@ -9,8 +9,8 @@ layout: default
 
   <div class="db center">
 
-    {% for news-item in site.news-items %}
-
+    {% assign news-items = site.news-items | sort: 'position' %}
+    {% for news-item in news-items %}
       <div class="dt center pt0 pb5 pv4-m pv5-l">
         {% if news-item.image %}<div class="db dtc-ns v-top-ns">
           {% if news-item.link %}<a href="{{ news-item.link }}" title="{{ news-item.heading }}" class="link">{% endif %}<img src="{{ news-item.image }}" alt="{{ news-item.heading }}" class="w-100 mw7 w5-ns" />{% if news-item.link %}</a>{% endif %}

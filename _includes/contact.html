@@ -32,7 +32,8 @@
         </div>
       </div>
       <div class="bg-white black ban br3 w-100 mb2 relative lh-solid">
-        <select multiple class="programs ban w-100 br3 relative top-0 left-0 pa2" name="Programs" title="Select multiple programs using CMD or CTRL key">
+        <select multiple class="programs ban w-100 br3 relative top-0 left-0 pa2 h2" size="1" name="Programs" title="Select multiple programs using CMD or CTRL key">
+          <option hidden disabled selected>Program/s of Interest</option>
           <optgroup label="Program(s) of Interest">
             {% for program in site.programs %}
             <option value="{{ program.short }}">{{ program.name }}</option>
