@@ -1,5 +1,5 @@
 ---
-title: 'Skill Camps'
+title: Skill Camps
 position: 1
 heading: Skills Camp in Grass Valley, California
 link: "/"
