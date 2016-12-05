@@ -56,7 +56,7 @@ nav:
   link: "/#programs"
 - name: About
   drop:
-  - name: Us
+  - name: BSA
     link: "/#about-bsa"
   - name: Staff
     link: "/#about-staff"
