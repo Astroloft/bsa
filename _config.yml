@@ -58,7 +58,7 @@ nav:
   drop:
   - name: Us
     link: "/#about-bsa"
-  - name: Chad
+  - name: Staff
     link: "/#about-staff"
 - name: Contact
   link: "/#contact"
