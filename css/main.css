@@ -274,8 +274,19 @@ nav {
 }
 
 .programs {
+  /*background: url('assets/icons/right-arrow.svg') no-repeat right #fff;
   -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-position-x: 100%;*/
+  background: url(../assets/icons/down.png) no-repeat right #fff;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-position: right 0.5em top 0.5em;
 }
+
+
 
 .bg-gray-b {
   background: #2c2c2c;
@@ -302,6 +313,50 @@ nav {
   background: #007877;
 }
 .green-b {
+  color: #007877;
+}
+
+.hover-bg-gray-b:hover,
+.hover-bg-gray-b:active,
+.hover-bg-gray-b:target {
+  background: #2c2c2c;
+}
+.hover-gray-b:hover,
+.hover-gray-b:active,
+.hover-gray-b:target {
+  color: #2c2c2c;
+}
+
+.hover-bg-maroon-b:hover,
+.hover-bg-maroon-b:active,
+.hover-bg-maroon-b:target {
+  background: #ba202b;
+}
+.hover-maroon-b:hover,
+.hover-maroon-b:active,
+.hover-maroon-b:target {
+  color: #ba202b;
+}
+
+.hover-bg-blue-b:hover,
+.hover-bg-blue-b:active,
+.hover-bg-blue-b:target {
+  background: #7da9da;
+}
+.hover-blue-b:hover,
+.hover-blue-b:active,
+.hover-blue-b:target {
+  color: #7da9da;
+}
+
+.hover-bg-green-b:hover,
+.hover-bg-green-b:active,
+.hover-bg-green-b:target {
+  background: #007877;
+}
+.hover-green-b:hover,
+.hover-green-b:active,
+.hover-green-b:target {
   color: #007877;
 }
 

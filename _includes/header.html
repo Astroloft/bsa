@@ -8,10 +8,10 @@
     {% for item in site.nav %}
     {% if item.drop %}
     <div id="{{ item.name }}" class="dib relative pointer pan hide-child mr3 mr4-ns">
-      <a class="light-gray no-underline f6 f5-ns ttu tracked white pa3 pb3">{{ item.name }}</a>
+      <a class="light-gray hover-blue-b no-underline f6 f5-ns ttu tracked white pa3 pb3">{{ item.name }}</a>
       <div class="child absolute man pan w-100 tc">
         {% for drop-item in item.drop %}
-        <a class="db pa3 dim link bg-white black" href="{{ drop-item.link }}">{{ drop-item.name }}</a>
+        <a class="db pa3 dim link white tl ttu tracked" href="{{ drop-item.link }}">{{ drop-item.name }}</a>
         {% endfor %}
       </div>
     </div>
@@ -23,10 +23,10 @@
     <a data-scroll class="link dim light-gray ttu tracked f6 f5-ns dib mr3 mr4-ns" href="news.html" title="News">News</a>
 
     <div id="social" class="dib relative pointer hide-child man pan pb3">
-      <a href="#social" class="light-gray no-underline f6 f5-ns ttu tracked white pa3 pb3">Social Media</a>
+      <a href="#social" class="white hover-blue-b no-underline f6 f5-ns ttu tracked pa3 pb3">Social Media</a>
       <div class="child absolute man pan w-100 tc">
         {% for item in site.social %}
-        <a class="db pa3 dim link bg-white black" href="{{ item.link }}">{{ item.name }}</a>
+        <a class="db pa3 dim link white tl ttu tracked" href="{{ item.link }}">{{ item.name }}</a>
         {% endfor %}
       </div>
     </div>
