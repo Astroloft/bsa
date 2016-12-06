@@ -16,4 +16,4 @@ Special Skills Camp offered this Winter in Grass Valley, California. Camp will e
 
 **Cost**: 150$ per player
 
-email us at bartlomesocceracademy@gmail.com to register and for more info.
+email us at info@bartlomesocceracademy.com to register and for more info.
