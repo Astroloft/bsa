@@ -1,11 +1,10 @@
-<nav class="dt w-100 border-box pa3 ph2 ph5-ns ph2 ph5-ns fixed absolute-l top-0 left-0 z-5 b-main-nav" style="background: -moz-linear-gradient(top, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%); background: -webkit-linear-gradient(top, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%); background: linear-gradient(to bottom, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%);"><div class="flex flex-row justify-between content-center items-center relative">
+<nav class="dt w-100 border-box pa3 ph2 ph5-ns fixed absolute-l top-0 left-0 z-5 b-main-nav" style="background: -moz-linear-gradient(top, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%); background: -webkit-linear-gradient(top, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%); background: linear-gradient(to bottom, rgba(17,17,17,1) 0%, rgba(17,17,17,0) 100%);"><div class="flex flex-row justify-between content-center items-center">
 
   <a class="mid-gray link dim bg-brand relative" href="index.html">
-    <img src="{{ site.favicon }}" class="fixed-l dib w-3 w3-m w-5-l" alt="{{ site.title }} Logo">
-    <span class="dn relative">reset</span>
+    <img src="{{ site.favicon }}" class="relative fixed-l top-1-l dib w-3 w3-m w-5-l" alt="{{ site.title }} Logo">
   </a>
 
-  <div class="dn db-l relative">
+  <div class="dn db-l relative mv4">
     {% for item in site.nav %}
     {% if item.drop %}
     <div id="{{ item.name }}" class="dib relative pointer pan hide-child mr3 mr4-ns">
