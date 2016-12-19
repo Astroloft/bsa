@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Down arrow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" figma:type="canvas">
+<rect x="0" y="0" width="128" height="128" fill="#E5E5E5"/>
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M 0 0L 128 0L 128 128L 0 128L 0 0Z" fill="#FFFFFF"/>
+</mask>
+<g id="Group" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Polygon" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="matrix(1 0 0 -1 17 88)" fill="#111111" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 47 0L 87.2641 42.9166L 82.0176 47.983L 47 11L 11.9664 48L 11.9281 48L 6.87544 42.7679L 47 0ZM 82.0336 48L 82.0176 47.983L 82 48L 82.4828 48.5L 82.507 48.5L 82.0336 48ZM 11.9474 48.02L 11.493 48.5L 11.5594 48.5L 12 48.0745L 11.9474 48.02Z"/>
+</defs>
+</svg>
