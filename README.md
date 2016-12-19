@@ -6,6 +6,7 @@ git clone https://github.com/astroloft/bsa.git bsa
 cd bsa
 npm install
 bundle install
+jekyll build
 gulp
 ```
 
