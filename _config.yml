@@ -19,17 +19,17 @@ defaults:
     path: ''
     type: news-items
   values:
-    heading:
-    link:
-    image:
+    heading: 
+    link: 
+    image: 
 - scope:
     path: ''
     type: programs
   values:
-    name:
-    short:
-    icon:
-    cta:
+    name: 
+    short: 
+    icon: 
+    cta: 
 version: v1
 description: Bartlomé Soccer Academy offers a wide range of programs including 1 on
   1 and Small Group private sessions, Large Group Soccer Courses, Team & Coaches Clinics
