@@ -592,44 +592,7 @@ nav {
   left: 0;
 }
 
-/* Fixing fixed backgrounds
-
-#about-staff {
-  overflow: hidden; // added for pseudo-element
-  position: relative; // added for pseudo-element
-
-  // Fixed-position background image
-  &::before {
-    content: ' ';
-    position: fixed; // instead of background-attachment
-    width: 100vw;
-    height: 100vh;
-    top: 0;
-    left: 0;
-    background-color: white;
-    background: url('../assets/images/bg-about-staff.png') no-repeat top center; /*{% include background-image.html image-url="assets/images/bg-about-staff.png" %}*//*
-    background-size: cover;
-    will-change: transform; // creates a new paint layer
-    z-index: -1;
-  }
-}
-
-#programs {
-  overflow: hidden; // added for pseudo-element
-  position: relative; // added for pseudo-element
-
-  // Fixed-position background image
-  &::before {
-    content: ' ';
-    position: fixed; // instead of background-attachment
-    width: 100vh;
-    height: 100vw;
-    top: 0;
-    left: 0;
-    background-color: white;
-    background: url('../assets/images/bg-programs.JPG') no-repeat center; /*{% include background-image.html image-url="assets/images/bg-programs.JPG" %}*//*
-    background-size: cover;
-    will-change: transform; // creates a new paint layer
-    z-index: -1;
-  }
-}*/
+/* Fixes *
+.man { margin: 0; }
+.pan { padding: 0; }
+*/

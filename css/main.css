@@ -591,3 +591,8 @@ nav {
   top: 0;
   left: 0;
 }
+
+/* Fixes *
+.man { margin: 0; }
+.pan { padding: 0; }
+*/

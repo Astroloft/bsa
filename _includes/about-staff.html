@@ -12,10 +12,15 @@
 
     <div class="w-100 w-50-l h-full-l dt ph3 ph4-m ph5-l"><div class="dtc v-mid white">
       {% for item in site.data.about-staff %}{% if item.para == true %}
-      <p class="mb4 lh-copy">
-        {% if item.image %}<img src="{{ item.image }}" alt="{{ item.img-alt }}" class="mw-100 mw5-ns mr3" align="{{ item.img-align }}" />{% endif %}
-        {{ item.content }}
-      </p>
+      <div class="mb4 lh-copy">
+        {% if item.image %}
+        <div class="ma0 mr4 pa0 fl">
+          <img src="{{ item.image }}" alt="{{ item.img-alt }}" class="w-100 mw5-ns ma0 pa0" />
+          <p class="lh-small f6 mb3 mt0 ma0-ns pa0">{{ item.img-alt }}</p>
+        </div>
+        {% endif %}
+        <p class="ma0 pa0 lh-copy">{{ item.content }}</p>
+      </div>
       {% endif %}{% endfor %}
     </div></div>
 
