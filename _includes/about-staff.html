@@ -1,17 +1,17 @@
 <section id="about-staff" class="w-100 black h-full dt bg-cv bg-fixed-f no-repeat" {% include background-image.html image-url="assets/images/bg-about-staff.png" position="top center" %}>
   <div class="w-100 bg-black-30"><div class="flex flex-column flex-row-l pv4">
 
-    <div class="w-100 w-50-l h-full-l dt ph3 ph4-m ph5-l"><div class="dtc v-mid center">
-      <h2 class="f2 f1-ns ttu strong fw8 fw9-ns"><span class="white">Chad</span></br><span class="maroon-b">Bartlomé</span></h2>
-      {% for item in site.data.about-staff %}{% if item.main == true %}
-      <p class="white lh-copy">
+    <div class="w-100 w-50-l h-full-l dt ph3 ph4-m ph5-l"><div class="dtc v-mid center white lh-copy">
+      <h2 class="f2 f1-ns ttu strong fw8 fw9-ns lh-title"><span class="white">Chad</span></br><span class="maroon-b">Bartlomé</span></h2>
+      {% for item in site.about-staff %}{% if item.main == true %}
+      <p class="">
         {{ item.content }}
       </p>
       {% endif %}{% endfor %}
     </div></div>
 
     <div class="w-100 w-50-l h-full-l dt ph3 ph4-m ph5-l"><div class="dtc v-mid white">
-      {% for item in site.data.about-staff %}{% if item.para == true %}
+      {% for item in site.about-staff %}{% if item.para == true %}
       <div class="mb4 lh-copy">
         {% if item.image %}
         <div class="ma0 mr4 pa0 fl">
