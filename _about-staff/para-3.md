@@ -1,4 +1,5 @@
 ---
+title: Para 3
 image: assets/images/about-3.jpg
 para: true
 img-align: left

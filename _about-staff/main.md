@@ -1,4 +1,5 @@
 ---
+title: Main
 main: true
 ---
 

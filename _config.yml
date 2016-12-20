@@ -2,14 +2,17 @@
 title: Bartlomé Soccer Academy
 timezone: Europe/Berlin
 collections:
+  about-staff:
+    title: About Staff
+    output: false
   news-items:
     title: News Items
     output: false
+  posts:
+    title: Posts
+    output: true
   programs:
     title: Programs
-    output: false
-  about-staff:
-    title: About Staff
     output: false
   uploads:
     title: Uploads
@@ -19,17 +22,17 @@ defaults:
     path: ''
     type: news-items
   values:
-    heading:
-    link:
-    image:
+    heading: 
+    link: 
+    image: 
 - scope:
     path: ''
     type: programs
   values:
-    name:
-    short:
-    icon:
-    cta:
+    name: 
+    short: 
+    icon: 
+    cta: 
 version: v1
 description: Bartlomé Soccer Academy offers a wide range of programs including 1 on
   1 and Small Group private sessions, Large Group Soccer Courses, Team & Coaches Clinics
