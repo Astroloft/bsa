@@ -5,7 +5,7 @@ heading: BSA Merchandise FOR SALE!
 image: "/uploads/16107096_1832991360273746_4297750146903105175_o.jpg"
 ---
 
-BSA T-shirts, Jerseys and Jackets still available for purchase👕👕👕⚽️❤⚽️❤⚽️❤
+BSA T-shirts, Jerseys and Jackets still available for purchase 👕👕👕⚽️❤⚽️❤⚽️❤
 
 Limited sizes and availability.
 
