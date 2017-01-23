@@ -596,3 +596,13 @@ nav {
 .man { margin: 0; }
 .pan { padding: 0; }
 */
+
+.staff-bg {
+  background: white;
+}
+
+@media screen and (min-width: 60em) {
+  .staff-bg {
+    background-image: url(../assets/images/bg-about-staff.png); background-position: top center;
+  }
+}
