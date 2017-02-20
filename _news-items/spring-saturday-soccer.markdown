@@ -22,4 +22,4 @@ Boys & Girls aged 6-14 years old. Bring your friends! :-)
 **--Cost--******
 300chf for the 12 sessions if you register and pay before March 3rd. 340chf after March 3rd.
 
-Contact us at bartlomesocceracademy@gmail.com for more info and to register now!
+Contact us at **bartlomesocceracademy@gmail.com** for more info and to register now!
