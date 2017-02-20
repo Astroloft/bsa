@@ -11,6 +11,7 @@ image: "/uploads/Screen%20Shot%202017-02-14%20at%2015.26.51-dc4ec4.png"
 **--When--**
 Saturday mornings
 March 18th - June 24th
+
 No trainings on April 15th, 22nd and May 27th
 12 sessions total
 All Groups from 900 - 1030
