@@ -5,7 +5,7 @@ heading: Easter Soccer Camp!!!
 image: "/uploads/Easter%20Camp_2017.png"
 ---
 
-**BSA Easter SOCCER Camp!!!**
+BSA Easter SOCCER Camp!!!
 
 **WHEN**: April 10th - 13th 1000-1600 everyday
 
