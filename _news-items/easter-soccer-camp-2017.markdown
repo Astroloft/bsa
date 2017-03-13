@@ -15,4 +15,4 @@ BSA Easter SOCCER Camp!!!
 
 **COST**: 280CHF/Child includes Camp shirt, snacks and hot lunch everyday
 
-Email us at bartlomesocceracademy@gmail.com for more info and to register
+Email us at **bartlomesocceracademy@gmail.com** for more info and to register
