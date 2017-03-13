@@ -8,8 +8,11 @@ image: "/uploads/Easter%20Camp_2017.png"
 BSA Easter SOCCER Camp!!!
 
 WHEN: April 10th - 13th 1000-1600 everyday
+
 WHERE: Schützenmatte Soccer Complex
+
 WHO: All children aged 6-14 years old
+
 COST: 280CHF/Child includes Camp shirt, snacks and hot lunch everyday
 
 Email us at bartlomesocceracademy@gmail.com for more info and to register
