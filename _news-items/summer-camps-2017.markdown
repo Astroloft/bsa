@@ -49,4 +49,4 @@ Here is the all the necessary information you need to get started on booking you
 ## Sibling Discount
 10% off for 1st sibling and 20% off for 2nd sibling!
 
-Email us at bartlomesocceracademy@gmail.com for more info and to book your spot now!
+Email us at **bartlomesocceracademy@gmail.com** for more info and to book your spot now!
