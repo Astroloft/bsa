@@ -10,7 +10,7 @@ image: "/uploads/Screen%20Shot%202017-05-03%20at%2010.34.38.png"
 
 Here is the all the necessary information you need to get started on booking your Summer Camp week.
 
---**# Camp 1**--
+# Camp 1
 
 **When**: June 26th - 30th 1000 - 1600 Everyday
 
