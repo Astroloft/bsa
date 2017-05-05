@@ -10,8 +10,7 @@ image: "/uploads/Screen%20Shot%202017-05-03%20at%2010.34.38.png"
 
 Here is the all the necessary information you need to get started on booking your Summer Camp week.
 
-# Camp 1
-
+## Camp 1
 **When**: June 26th - 30th 1000 - 1600 Everyday
 
 **Where**: ISB Reinach Campus
@@ -20,8 +19,7 @@ Here is the all the necessary information you need to get started on booking you
 
 **Cost**: This is run and organised by the school. BSA just runs the day to day once the camp starts. Please contact ISB school for more info regarding cost and registration.
 
---**## Camp 2**--
-
+## Camp 2
 **When**: July 3rd - 7th 1000 - 1600 Everyday
 
 **Where**: Schützenmatte Sports Complex
@@ -30,8 +28,7 @@ Here is the all the necessary information you need to get started on booking you
 
 **Cost**: 300CHF If you register and pay before June 23rd. 350CHF after June 23rd.
 
---**### Camp 3**--
-
+## Camp 3
 **When**: July 17th - 21st 1000 - 1600 Everyday
 
 **Where**: Schützenmatte Sports Complex
@@ -40,8 +37,7 @@ Here is the all the necessary information you need to get started on booking you
 
 **Cost**: 300CHF if you register and pay before June 23rd. 350CHF after June 23rd.
 
---**# Camp 4**--
-
+## Camp 4
 **When**: August 7th - 11th 1000 - 1600 Everyday
 
 **Where**: Rankhof Sports Complex
@@ -50,7 +46,7 @@ Here is the all the necessary information you need to get started on booking you
 
 **Cost**: 300CHF if you register and pay before June 23rd. 350CHF after June 23rd.
 
---**# Sibling Discount**--
+## Sibling Discount
 10% off for 1st sibling and 20% off for 2nd sibling!
 
 Email us at bartlomesocceracademy@gmail.com for more info and to book your spot now!
