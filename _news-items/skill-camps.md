@@ -1,6 +1,6 @@
 ---
 title: Skill Camps
-position: 2
+position: 4
 heading: Skills Camp in Grass Valley, California
 link: "/"
 image: "/uploads/Screen%20Shot%202015-05-22%20at%202.22.37%20PM.png"

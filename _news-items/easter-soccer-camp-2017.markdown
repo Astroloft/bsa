@@ -1,6 +1,7 @@
 ---
 title: Easter Soccer Camp 2017
 date: 2017-03-13 10:35:00 +01:00
+position: 1
 heading: Easter Soccer Camp!!!
 image: "/uploads/Easter%20Camp_2017.png"
 ---
