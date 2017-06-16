@@ -1,6 +1,7 @@
 ---
 title: Bartlomé Soccer Academy
 timezone: Europe/Berlin
+encoding: utf-8
 collections:
   about-staff:
     title: About Staff
