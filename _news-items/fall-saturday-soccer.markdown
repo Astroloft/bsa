@@ -20,6 +20,6 @@ Boys & Girls aged 6-14 years old. Bring your friends! :-)
 **COST**
 350chf for the 14 sessions if you register and pay before August 25th... 25chf/1.5 hour session.
 
-**10% off 1st Sibling and 20% off 2nd sibling!
-**
+10% off 1st Sibling and 20% off 2nd sibling!
+
 Contact us at **bartlomesocceracademy@gmail.com** for more info and to register now!
