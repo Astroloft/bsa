@@ -22,5 +22,4 @@ Boys & Girls aged 6-14 years old. Bring your friends! :-)
 
 **10% off 1st Sibling and 20% off 2nd sibling!
 **
-
 Contact us at **bartlomesocceracademy@gmail.com** for more info and to register now!
