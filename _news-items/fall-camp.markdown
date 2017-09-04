@@ -10,7 +10,7 @@ The BSA/Old Boys 2017 Fall Soccer Camp is coming up! If you are sticking around 
 
 **WHEN**: October 9th - 13th 1000 - 1600 Everyday
 
-**WHEN**: Schützenmatte Sports Complex. Across the street from Neubadstrasse 5, Basel
+**WHERE**: Schützenmatte Sports Complex. Across the street from Neubadstrasse 5, Basel
 
 **WHO**: All children aged 6-14 years old
 
