@@ -1,7 +1,7 @@
 ---
 title: Summer Camps 2017
 date: 2017-05-05 09:14:00 +02:00
-position: 4
+position: 5
 heading: Summer Soccer Camps
 image: "/uploads/Screen%20Shot%202017-05-03%20at%2010.34.38.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fall Saturday Soccer
 date: 2017-08-14 14:24:00 +02:00
-position: 3
+position: 4
 heading: Fall Term Saturday Morning Soccer Course
 image: "/uploads/Screen%20Shot%202017-06-08%20at%2011.48.42.png"
 ---

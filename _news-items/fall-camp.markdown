@@ -1,7 +1,7 @@
 ---
 title: Fall Camp
 date: 2017-09-04 12:38:00 +02:00
-position: 2
+position: 3
 heading: Fall Soccer Camp
 image: "/uploads/Screen%20Shot%202017-09-01%20at%2020.08.41.png"
 ---
