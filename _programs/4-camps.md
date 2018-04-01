@@ -4,7 +4,7 @@ position: 3
 name: Skill Camps
 short: camps
 icon: camp
-cta: Click here to contact us about our upcoming camps
+cta: Please click here for more information on upcoming programs
 link: "/news"
 ---
 
