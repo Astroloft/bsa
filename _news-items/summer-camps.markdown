@@ -8,4 +8,4 @@ image: "/uploads/Soccer%20ball.jpg"
 
 We are offering 6 different weeks of Summer Camps this year! Too many to list here! ;-)
 
-Please click on the Soccer Ball for all Summer Camp info!
+Please click on the Soccer Ball for all Summer Camp info and to register today!
