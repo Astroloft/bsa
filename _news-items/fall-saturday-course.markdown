@@ -1,11 +1,11 @@
 ---
 title: Fall Saturday Course
 date: 2018-08-13 13:26:00 +02:00
-heading: Fall Saturday Soccer Course
+heading: Fall Saturday Soccer Course 2018
 image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
 
-# **Fall Saturday Soccer**
+# **Fall Saturday Soccer Course**
 
 **When**: Saturday mornings starting Saturday, August 18th and ending December 8th. All Groups from 900 - 1030
 
@@ -21,4 +21,4 @@ image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 
 **What to bring**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
 
-# To sign up, please email us now at bartlomesocceracademy@gmail.com
+## # To sign up, please email us now at bartlomesocceracademy@gmail.com
