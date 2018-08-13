@@ -5,18 +5,18 @@ heading: Fall Saturday Soccer Course
 image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
 
-**When**: Saturday mornings starting Saturday, August 18th and ending December 8th. All Groups from 900 - 1030
+**WHEN**: Saturday mornings starting Saturday, August 18th and ending December 8th. All Groups from 900 - 1030
 
 ***No training sessions on October 6th and 13th***
 
-**Where**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
+**WHERE**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
 
-**Who**: Boys & Girls aged 6-14 years old. All ability levels are welcome so bring your friends! :-)
+**WHO**: Boys & Girls aged 6-14 years old. All ability levels are welcome so bring your friends! :-)
 
-**Cost**: 400chf for the 15 sessions if you register and pay before August 13th... 27chf/1.5 hour session. However, If you register and pay after August 13th, the cost is 450chf.
+**COST**: 400chf for the 15 sessions if you register and pay before August 13th... 27chf/1.5 hour session. However, If you register and pay after August 13th, the cost is 450chf.
 
 ***Also, 10% off 1st Sibling and 20% off 2nd sibling!***
 
-**What to bring**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
+**WHAT TO BRING**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
 
 ## To sign up, please email us now at bartlomesocceracademy@gmail.com
