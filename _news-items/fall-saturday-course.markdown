@@ -19,4 +19,6 @@ image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 
 **WHAT TO BRING**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
 
+**TRY FIRST TIME FOR FREE!!!
+**
 ## To sign up, please email us now at bartlomesocceracademy@gmail.com
