@@ -1,16 +1,15 @@
 ---
 title: Fall Saturday Course
 date: 2018-08-13 13:26:00 +02:00
-heading: Fall Saturday Soccer Course!
-image: "/uploads/BSA%20Tournament_2018.jpg"
+heading: Fall Saturday Soccer Course
+image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
 
 # **Fall Saturday Soccer**
 
-**When**: Saturday mornings starting Saturday, August 18th and ending December 8th
+**When**: Saturday mornings starting Saturday, August 18th and ending December 8th. All Groups from 900 - 1030
 
-**No training sessions on October 6th and 13th**
-All Groups from 900 - 1030
+***No training sessions on October 6th and 13th***
 
 **Where**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
 
@@ -21,3 +20,5 @@ All Groups from 900 - 1030
 ***Also, 10% off 1st Sibling and 20% off 2nd sibling!***
 
 **What to bring**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
+
+To sign up, please email us now at bartlomesocceracademy@gmail.com
