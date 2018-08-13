@@ -5,8 +5,6 @@ heading: Fall Saturday Soccer Course
 image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
 
-# **Fall Saturday Soccer Course**
-
 **When**: Saturday mornings starting Saturday, August 18th and ending December 8th. All Groups from 900 - 1030
 
 ***No training sessions on October 6th and 13th***
