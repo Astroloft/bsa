@@ -9,4 +9,4 @@ image: "/uploads/DSC04783.jpg"
 
 We are offering 3 different weeks of Fall Soccer Camps this year! Something for everyone for sure! :-)
 
-Please click on the Soccer Ball for all Fall Camp info and to register today!
+Please click on the picture for all Fall Camp info and to register today!
