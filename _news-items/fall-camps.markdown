@@ -7,6 +7,6 @@ link: https://docs.google.com/forms/d/1vEXpJ5vPgVvURhd9qA6GY7q5UxPRJV3W7D6jm-7G5
 image: "/uploads/DSC04783.jpg"
 ---
 
-We are offering 3 different weeks of Fall Soccer Camps this year! Something for everyone for sure! :-)
+We are offering 4 different options in 3 weeks of Fall Holidays Soccer Camps this year! Something for everyone for sure! :-)
 
 Please click on the picture for all Fall Camp info and to register today!
