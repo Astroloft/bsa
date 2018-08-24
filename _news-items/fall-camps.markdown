@@ -1,7 +1,6 @@
 ---
 title: Fall Camps
 date: 2018-08-20 15:26:00 +02:00
-published: false
 tags:
 - soccer
 - camp
