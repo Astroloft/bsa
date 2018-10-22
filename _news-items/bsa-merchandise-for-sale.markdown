@@ -1,7 +1,7 @@
 ---
 title: BSA Merchandise FOR SALE!
 date: 2017-01-23 10:28:00 +01:00
-position: 2
+position: 1
 heading: BSA Merchandise FOR SALE!
 image: "/uploads/16107096_1832991360273746_4297750146903105175_o.jpg"
 ---
