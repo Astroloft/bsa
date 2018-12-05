@@ -19,5 +19,7 @@ Erima BSA Camp T-shirts = 15chf
 
 Nike BSA Full Kit = 50chf (very limited sizes and availability)
 
+**BUY 1 ITEM AND GET THE 2ND ITEM 20%OFF!!!** (discount applies to lesser value item)
+
 
 Email us at bartlomesocceracademy@gmail.com for info and purchases.
