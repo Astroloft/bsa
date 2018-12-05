@@ -11,9 +11,9 @@ BSA T-shirts, Jackets and full kit available for purchase!
 
 Would make great stocking stuffers for the soccer player(s) in your family! :-) Limited sizes and availability.
 
-Nike T-shirts = 30chf
-Nike Jackets = 50chf (limited sizes and availability)
-Erima T-shirts = 15chf
-Nike Full Kit = 50chf (very limited sizes and availability)
+Nike BSA T-shirts = 30chf
+Nike BSA Jackets = 50chf (limited sizes and availability)
+Erima BSA Camp T-shirts = 15chf
+Nike BSA Full Kit = 50chf (very limited sizes and availability)
 
 Email us at bartlomesocceracademy@gmail.com for info and purchases.
