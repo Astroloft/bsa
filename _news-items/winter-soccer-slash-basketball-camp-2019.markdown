@@ -13,11 +13,11 @@ image: "/uploads/Soccer%20ball-a0fd23.jpg"
 - Supervised Lunch Break 1200 - 1300
 - Basketball from 1300 - 1600
 
-**WHERE**: Gymnasium Bäumlihof, Zu den Drei Linden 80, 4058 Basel
+**WHERE**: Gymnasium Bäumlihof, Zu den Drei Linden 80, Basel
 
 **WHO**: All Children aged 6 - 14 years old
 
-**COST**: Full Week (Camp T-shirt included but no lunch included)
+**COST**: Full Week (Camp T-shirt included but no lunch)
 - Just Soccer morning = 225CHF/Child
 - Just Basketball Afternoon = 225CHF/Child
 - Full Day Program = 400CHF/Child
