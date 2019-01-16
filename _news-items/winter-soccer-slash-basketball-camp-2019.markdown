@@ -2,13 +2,13 @@
 title: Winter Soccer/Basketball Camp 2019
 date: 2019-01-16 14:40:00 +01:00
 heading: Ski Holidays - WINTER Soccer/Basketball Camp 2019
-image: "/uploads/Soccer%20ball-a0fd23.jpg"
+image: "/uploads/Screenshot%202019-01-16%20at%2014.54.42.png"
 ---
 
 **Winter Soccer/Basketball Camp 2019**
 
 **WHEN**:
-- March 4th - 8th from 900 - 1600 everyday
+- **March 4th - 8th** from 900 - 1600 everyday
 - Soccer from 900 - 1200
 - Supervised Lunch Break 1200 - 1300
 - Basketball from 1300 - 1600
