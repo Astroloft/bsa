@@ -20,4 +20,4 @@ image: "/uploads/Screenshot%202019-01-16%20at%2014.54.42.png"
 - Just Basketball Afternoon = 225CHF/Child
 - Full Day Program = 400CHF/Child
 
-For more information or to register, email us at **bartlomesocceracademy@gmail.com**
+## For more information or to register, email us at **bartlomesocceracademy@gmail.com**
