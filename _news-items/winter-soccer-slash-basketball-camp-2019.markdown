@@ -2,7 +2,7 @@
 title: Winter Soccer/Basketball Camp 2019
 date: 2019-01-16 14:40:00 +01:00
 heading: Ski Holidays - WINTER Soccer/Basketball Camp 2019
-image: "/uploads/2000px-Basketball_Clipart.svg-92334c.png"
+image: "/uploads/Soccer%20ball-a0fd23.jpg"
 ---
 
 **Winter Soccer/Basketball Camp 2019**
