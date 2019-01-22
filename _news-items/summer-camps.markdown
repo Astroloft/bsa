@@ -1,6 +1,7 @@
 ---
 title: Summer Camps
 date: 2018-04-19 09:39:00 +02:00
+published: false
 position: 3
 heading: Summer Camps 2018
 link: https://docs.google.com/forms/d/1DUGJy7lTsH-fwLdqFn_P_buJeiQ_DSyy1acaaOkCyvs/edit
