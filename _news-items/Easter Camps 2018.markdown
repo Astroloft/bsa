@@ -7,4 +7,4 @@ link: https://docs.google.com/forms/d/1nXwAcCbGq5cbc57lCpXCiYoAn0gTVhkj6ULuaVjJd
 image: "/uploads/Screenshot%202019-01-29%20at%2014.39.36.png"
 ---
 
-# Click on the picture to find out more information and to register now!
+## # Click on the picture to find out more information and to register now!
