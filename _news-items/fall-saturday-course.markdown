@@ -1,7 +1,7 @@
 ---
 title: Fall Saturday Course
 date: 2018-08-13 13:26:00 +02:00
-position: 1
+position: 3
 heading: Fall Saturday Soccer Course
 image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
