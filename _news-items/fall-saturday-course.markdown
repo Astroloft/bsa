@@ -23,9 +23,7 @@ image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 
 After March 29th, the cost is 340chf and 300chf respectively.
 
-**Also, 10% off 1st Sibling and 20% off 2nd sibling! (Applied to lower amount course cost)**
-
-**10% off 1st Sibling and 20% off 2nd sibling!**
+**10% off 1st Sibling and 20% off 2nd sibling! (Applied to lower amount course cost)**
 
 **WHAT TO BRING**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
 
