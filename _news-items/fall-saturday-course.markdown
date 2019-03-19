@@ -29,4 +29,4 @@ After March 29th, the cost is 340chf and 300chf respectively.
 
 **TRY THE FIRST TIME FOR FREE!!!**
 
-## To sign up, please email us now at bartlomesocceracademy@gmail.com
+## For more info or to register, please email us now at bartlomesocceracademy@gmail.com
