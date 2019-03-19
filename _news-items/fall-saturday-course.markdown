@@ -7,9 +7,8 @@ image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 ---
 
 **WHEN**: Saturday mornings starting Saturday, April 6th and ending June 29th.
-
-6-14 years old from 900 - 1030
-4-5 years old from 900 - 1000
+- 6-14 years old from 900 - 1030
+- 4-5 years old from 900 - 1000
 
 ***No training sessions on April 20th and 27th***
 
@@ -19,8 +18,8 @@ image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
 
 **COST**
 
-300chf - 6-14 years old. Register and pay before March 29th.
-260chf - 4-5 years old. Register and pay before March 29th.
+-300chf: 6-14 years. Register & pay before March 29th.
+-260chf: 4-5 years. Register & pay before March 29th.
 After March 29th, the cost is 340chf and 300chf respectively.
 **Also, 10% off 1st Sibling and 20% off 2nd sibling! (Applied to lower amount course cost)**
 
