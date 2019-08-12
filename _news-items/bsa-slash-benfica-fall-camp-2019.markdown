@@ -1,7 +1,7 @@
 ---
 title: BSA/Benfica Fall Camp 2019
 date: 2019-08-12 12:45:00 +02:00
-heading: BSA/S.L. Benfica Fall Soccer Camp 2019
+heading: BSA / S.L. Benfica Fall Soccer Camp 2019
 link: https://docs.google.com/forms/d/1VenzQ8w-HARfHy-v2YJuKP4ixbnvj3imakx2-GdQl8k/edit
 image: "/uploads/190621_Cartaz_Basel_A3%20PREVIEW.pdf"
 ---
