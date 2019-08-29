@@ -5,6 +5,9 @@ collections:
   about-staff:
     title: About Staff
     output: false
+  carousel:
+    title: Carousel
+    output: true
   news-items:
     title: News Items
     output: false
