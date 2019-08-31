@@ -1,6 +1,6 @@
 {% for carousel in site.carousel %}
 <div class="dn man pan">
-<a href="{% if carousel.link %}{{ carousel.link }}{% else %}#{% endif %}"><img src="{% if carousel.img %}{{ carousel.img }}" /></a>
+<a href="{% if carousel.link %}{{ carousel.link }}{% else %}#{% endif %}"><img src="{% if carousel.img %}{{ carousel.img }}{% endif %}" /></a>
 </div>
 {% endfor %}
 
