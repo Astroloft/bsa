@@ -515,6 +515,26 @@ nav {
 
  }
 
+/*
+ * HERO SECTION (GALLERY)
+ */
+
+.hero-bg-1 {
+  background-image: url(../assets/images/hero-1.jpg);
+  background-position: center center;
+}
+.hero-bg-2 {
+  background-image: url(../assets/images/hero-2.jpg);
+  background-position: center center;
+}
+.hero-bg-3 {
+  background-image: url(../assets/images/hero-3.jpg);
+  background-position: center center;
+}
+.hero-bg-4 {
+  background-image: url(../assets/images/hero-4.jpg);
+  background-position: center center;
+}
 
 /*
  * OFFCANVAS MENU
