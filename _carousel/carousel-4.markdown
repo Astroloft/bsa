@@ -5,5 +5,6 @@ position: 3
 image: "/uploads/hero-4.jpg"
 link: 
 new_tab: 
+link_text: 
 ---
 
