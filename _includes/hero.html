@@ -1,6 +1,6 @@
 {% for carousel in site.carousel %}
 <div class="dn man pan">
-<a href="{% if carousel.link %}{{ carousel.link }}{% endif %}" {% if carousel.new_tab %} target="_blank" {% endif %}><img src="{{ carousel.image }}" /></a>
+<a href="{% if carousel.link %}{{ carousel.link }}{% else %}#{% endif %}"><img src="{% if carousel.img %}{{ carousel.img }}" /></a>
 </div>
 {% endfor %}
 <section id="gallery" class="w-100 h-full dt relative bg-cv man pan bg-fixed-f no-repeat hero-bg-1">
