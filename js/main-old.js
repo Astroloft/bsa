@@ -1,7 +1,7 @@
 function run(interval, frames) {
      var int = 2;
     function func() {
-         document.getElementById("gallery").className = "w-100 h-full dt bg-cv man pan bg-fixed-f no-repeat";
+         document.getElementById("gallery").className = "w-100 h-full dt bg-cv man pan bg-fixed-f no-repeat hero-bg-"+int;
          int++;
          if(int === frames + 1) { int = 1; }
      }
