@@ -5,7 +5,7 @@
 {% endfor %}
 
 {% for carousel in site.carousel %}
-<section id="gallery" class="w-100 h-full dt relative bg-cv man pan bg-fixed-f no-repeat" style="background-image: url('{% if carousel.img %}{{ carousel.img }}')">
+<section id="gallery" class="w-100 h-full dt relative bg-cv man pan bg-fixed-f no-repeat" style="background-image: url('{% if carousel.img %}{{ carousel.img }}{% endif %}')">
 
   <div class="dtc v-mid bg-black-50"><div class="measure-narrow measure-m measure-wide-l center">
     <h1 class="mb4 lh-title white f2 tc"> Elevate your game. </h1>
