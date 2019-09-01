@@ -14,6 +14,9 @@ collections:
   posts:
     title: Posts
     output: true
+  primary-partners:
+    title: Primary Partners
+    output: true
   programs:
     title: Programs
     output: false
