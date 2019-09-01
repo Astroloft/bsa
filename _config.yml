@@ -11,6 +11,9 @@ collections:
   news-items:
     title: News Items
     output: false
+  partners:
+    title: Partners
+    output: true
   posts:
     title: Posts
     output: true
