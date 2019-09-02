@@ -258,19 +258,19 @@ nav {
   .w-400-ns {
     width: 400%;
   }
-  .w-10{width: 10vw;}
-  .w-20{width: 20vw;}
-  .w-25{width: 25vw;}
-  .w-30{width: 30vw;}
-  .w-33{width: 33vw;}
-  .w-40{width: 40vw;}
-  .w-50{width: 50vw;}
-  .w-60{width: 60vw;}
-  .w-66{width: 66vw;}
-  .w-70{width: 70vw;}
-  .w-75{width: 75vw;}
-  .w-80{width: 80vw;}
-  .w-90{width: 90vw;}
+  .w-10{width: 10vw; display: inline-block;}
+  .w-20{width: 20vw; display: inline-block;}
+  .w-25{width: 25vw; display: inline-block;}
+  .w-30{width: 30vw; display: inline-block;}
+  .w-33{width: 33vw; display: inline-block;}
+  .w-40{width: 40vw; display: inline-block;}
+  .w-50{width: 50vw; display: inline-block;}
+  .w-60{width: 60vw; display: inline-block;}
+  .w-66{width: 66vw; display: inline-block;}
+  .w-70{width: 70vw; display: inline-block;}
+  .w-75{width: 75vw; display: inline-block;}
+  .w-80{width: 80vw; display: inline-block;}
+  .w-90{width: 90vw; display: inline-block;}
 }
 
 @media screen and (min-width: 60em) {
