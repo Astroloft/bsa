@@ -11,15 +11,18 @@ collections:
   news-items:
     title: News Items
     output: false
-  partners:
-    title: Partners
-    output: true
   posts:
     title: Posts
+    output: true
+  primary-partners:
+    title: Primary Partners
     output: true
   programs:
     title: Programs
     output: false
+  secondary-partners:
+    title: Secondary Partners
+    output: true
   uploads:
     title: Uploads
     output: true
