@@ -258,19 +258,19 @@ nav {
   .w-400-ns {
     width: 400%;
   }
-  .w-10{width: 10vw; display: inline-block;}
-  .w-20{width: 20vw; display: inline-block;}
-  .w-25{width: 25vw; display: inline-block;}
-  .w-30{width: 30vw; display: inline-block;}
-  .w-33{width: 33vw; display: inline-block;}
-  .w-40{width: 40vw; display: inline-block;}
-  .w-50{width: 50vw; display: inline-block;}
-  .w-60{width: 60vw; display: inline-block;}
-  .w-66{width: 66vw; display: inline-block;}
-  .w-70{width: 70vw; display: inline-block;}
-  .w-75{width: 75vw; display: inline-block;}
-  .w-80{width: 80vw; display: inline-block;}
-  .w-90{width: 90vw; display: inline-block;}
+  .w-10{width: 8vw; margin: 0 0.6vw; display: inline-block;}
+  .w-20{width: 18vw; margin: 0 0.6vw; display: inline-block;}
+  .w-25{width: 23vw; margin: 0 0.6vw; display: inline-block;}
+  .w-30{width: 28vw; margin: 0 0.6vw; display: inline-block;}
+  .w-33{width: 31vw; margin: 0 0.6vw; display: inline-block;}
+  .w-40{width: 38vw; margin: 0 0.6vw; display: inline-block;}
+  .w-50{width: 48vw; margin: 0 0.6vw; display: inline-block;}
+  .w-60{width: 58vw; margin: 0 0.6vw; display: inline-block;}
+  .w-66{width: 64vw; margin: 0 0.6vw; display: inline-block;}
+  .w-70{width: 68vw; margin: 0 0.6vw; display: inline-block;}
+  .w-75{width: 73vw; margin: 0 0.6vw; display: inline-block;}
+  .w-80{width: 78vw; margin: 0 0.6vw; display: inline-block;}
+  .w-90{width: 88vw; margin: 0 0.6vw; display: inline-block;}
 }
 
 @media screen and (min-width: 60em) {
@@ -283,19 +283,19 @@ nav {
   .w-400-l {
     width: 400%;
   }
-  .w-10{width: 8vw; margin: 0 0.6vw;}
-  .w-20{width: 18vw; margin: 0 0.6vw;}
-  .w-25{width: 23vw; margin: 0 0.6vw;}
-  .w-30{width: 28vw; margin: 0 0.6vw;}
-  .w-33{width: 31vw; margin: 0 0.6vw;}
-  .w-40{width: 38vw; margin: 0 0.6vw;}
-  .w-50{width: 48vw; margin: 0 0.6vw;}
-  .w-60{width: 58vw; margin: 0 0.6vw;}
-  .w-66{width: 64vw; margin: 0 0.6vw;}
-  .w-70{width: 68vw; margin: 0 0.6vw;}
-  .w-75{width: 73vw; margin: 0 0.6vw;}
-  .w-80{width: 78vw; margin: 0 0.6vw;}
-  .w-90{width: 88vw; margin: 0 0.6vw;}
+  .w-10{width: 8vw; margin: 0 0.6vw; display: inline-block;}
+  .w-20{width: 18vw; margin: 0 0.6vw; display: inline-block;}
+  .w-25{width: 23vw; margin: 0 0.6vw; display: inline-block;}
+  .w-30{width: 28vw; margin: 0 0.6vw; display: inline-block;}
+  .w-33{width: 31vw; margin: 0 0.6vw; display: inline-block;}
+  .w-40{width: 38vw; margin: 0 0.6vw; display: inline-block;}
+  .w-50{width: 48vw; margin: 0 0.6vw; display: inline-block;}
+  .w-60{width: 58vw; margin: 0 0.6vw; display: inline-block;}
+  .w-66{width: 64vw; margin: 0 0.6vw; display: inline-block;}
+  .w-70{width: 68vw; margin: 0 0.6vw; display: inline-block;}
+  .w-75{width: 73vw; margin: 0 0.6vw; display: inline-block;}
+  .w-80{width: 78vw; margin: 0 0.6vw; display: inline-block;}
+  .w-90{width: 88vw; margin: 0 0.6vw; display: inline-block;}
 }
 
 .overflow-hidden {
@@ -306,6 +306,12 @@ nav {
 }
 .bg-fixed {
   background-attachment: fixed;
+}
+
+.partner-image{
+  max-width: 300px;
+  max-height: 200px;
+  height: auto;
 }
 
 @media (pointer:fine) {
