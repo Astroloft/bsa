@@ -316,18 +316,18 @@ nav {
 .p-5{
   padding: 5%;
 }
-.plr-1{padding: 0 1%;}
-.plr-2{padding: 0 2%;}
-.plr-3{padding: 0 3%;}
-.plr-4{padding: 0 4%;}
-.plr-5{padding: 0 5%;}
-.plr-6{padding: 0 6%;}
-.plr-7{padding: 0 7%;}
-.plr-8{padding: 0 8%;}
-.plr-15{padding: 0 15%;}
+.plr-1{padding-left:1%; padding-right: 1%;}
+.plr-2{padding-left:2%; padding-right: 2%;}
+.plr-3{padding-left:3%; padding-right: 3%;}
+.plr-4{padding-left:4%; padding-right: 4%;}
+.plr-5{padding-left:5%; padding-right: 5%;}
+.plr-6{padding-left:6%; padding-right: 6%;}
+.plr-7{padding-left:7%; padding-right: 7%;}
+.plr-8{padding-left:8%; padding-right: 8%;}
+.plr-15{padding-left:15%; padding-right: 15%;}
 
 
-.ptb-2{padding: 2% 0;}
+.ptb-2{padding-top: 2%; padding-bottom: 2%;}
 
 .text-center{
   text-align: center;
