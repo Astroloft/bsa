@@ -325,6 +325,9 @@ nav {
 .plr-7{padding: 0 7%;}
 .plr-8{padding: 0 8%;}
 
+
+.ptb-2{padding: 2% 0;}
+
 @media (pointer:fine) {
   .bg-fixed-f {
     background-attachment: fixed;
