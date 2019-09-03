@@ -700,10 +700,10 @@ nav {
 }
 
 .owl-carousel{
-  display: block;
+  display: none;
   height: 100vh;
   width: 100%;
-  background-size: cover; 
+  background-size: cover;
 }
 
 .owl-carousel .owl-slide {
