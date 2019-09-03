@@ -21,3 +21,24 @@
   </div>
 
 </section>
+
+{% for carousel in site.carousel %}
+
+<div class="owl-carousel owl-theme">
+  {% for carousel in site.carousel %}
+  <div class="owl-slide d-flex align-items-center cover" style="background-image: url({{ carousel.img }});">
+    <div class="container">
+      <div class="row justify-content-center justify-content-md-start">
+        <div class="col-10 col-md-6 static">
+          <div class="owl-slide-text">
+            <h2 class="owl-slide-animated owl-slide-title mb4 lh-title white f2 tc">Elevate Your Game</h2>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="#programs" target="_blank" role="button">View Programs</a>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="#about-bsa" target="_blank" role="button">About BSA</a>
+            {% if carousel.link %}<a class="btn btn-primary owl-slide-animated owl-slide-cta" href="{{ carousel.link }}" target="_blank" role="button">{{ carousel.link_text }}</a>{% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!--/owl-slide-->
+  {% endfor %}
+</div>
