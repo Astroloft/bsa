@@ -27,3 +27,24 @@
 <a href="{% if carousel.link %}{{ carousel.link }}{% else %}#{% endif %}"><img src="{{ carousel.img }}" /></a>
 </div>
 {% endfor %}
+
+<div class="owl-carousel owl-theme">
+  {% for carousel in site.carousel %}
+  <div class="owl-slide d-flex align-items-center cover" style="background-image: url({% if carousel.title %}{{ carousel.title }}{% endif %});">
+    <div class="container">
+      <div class="row justify-content-center justify-content-md-start">
+        <div class="col-10 col-md-6 static">
+          <div class="owl-slide-text">
+            {% else if int == "even" %}
+            <h1 class="owl-slide-animated owl-slide-title">{% if carousel.title %}{{ carousel.title }}{% else %} Elevate your game. {% endif %}</h1>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">View Programs</a>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">About BSA</a>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">{% if carousel.link_text %}{{ carousel.link_text }}{% endif %}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!--/owl-slide-->
+  {% endfor %}
+
+</div>
