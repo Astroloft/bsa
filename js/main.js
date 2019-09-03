@@ -33,14 +33,14 @@ ga('create', 'UA-99578991-1', 'auto');
 ga('send', 'pageview');
 
 
-$(".owl-carousel").on("initialized.owl.carousel", () => {
+jQuery(".owl-carousel").on("initialized.owl.carousel", () => {
   setTimeout(() => {
-    $(".owl-item.active .owl-slide-animated").addClass("is-transitioned");
-    $("section").show();
+    jQuery(".owl-item.active .owl-slide-animated").addClass("is-transitioned");
+    jQuery("section").show();
   }, 200);
 });
 
-const $owlCarousel = $(".owl-carousel").owlCarousel({
+const jQueryowlCarousel = jQuery(".owl-carousel").owlCarousel({
   items: 1,
   loop: true,
   nav: true,
@@ -50,30 +50,30 @@ const $owlCarousel = $(".owl-carousel").owlCarousel({
   ]
 });
 
-$owlCarousel.on("changed.owl.carousel", e => {
-  $(".owl-slide-animated").removeClass("is-transitioned");
+jQueryowlCarousel.on("changed.owl.carousel", e => {
+  jQuery(".owl-slide-animated").removeClass("is-transitioned");
 
-  const $currentOwlItem = $(".owl-item").eq(e.item.index);
-  $currentOwlItem.find(".owl-slide-animated").addClass("is-transitioned");
+  const jQuerycurrentOwlItem = jQuery(".owl-item").eq(e.item.index);
+  jQuerycurrentOwlItem.find(".owl-slide-animated").addClass("is-transitioned");
 
-  const $target = $currentOwlItem.find(".owl-slide-text");
-  doDotsCalculations($target);
+  const jQuerytarget = jQuerycurrentOwlItem.find(".owl-slide-text");
+  doDotsCalculations(jQuerytarget);
 });
 
-$owlCarousel.on("resize.owl.carousel", () => {
+jQueryowlCarousel.on("resize.owl.carousel", () => {
   setTimeout(() => {
     setOwlDotsPosition();
   }, 50);
 });
 
 /*if there isn't content underneath the carousel*/
-//$owlCarousel.trigger("refresh.owl.carousel");
+//jQueryowlCarousel.trigger("refresh.owl.carousel");
 
 setOwlDotsPosition();
 
 function setOwlDotsPosition() {
-  const $target = $(".owl-item.active .owl-slide-text");
-  doDotsCalculations($target);
+  const jQuerytarget = jQuery(".owl-item.active .owl-slide-text");
+  doDotsCalculations(jQuerytarget);
 }
 
 function doDotsCalculations(el) {
@@ -81,8 +81,8 @@ function doDotsCalculations(el) {
   const {top, left} = el.position();
   const res = height + top + 20;
 
-  $(".owl-carousel .owl-dots").css({
-    top: `${res}px`,
-    left: `${left}px`
+  jQuery(".owl-carousel .owl-dots").css({
+    top: `jQuery{res}px`,
+    left: `jQuery{left}px`
   });
 }
