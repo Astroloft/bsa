@@ -329,6 +329,10 @@ nav {
 
 .ptb-2{padding: 2% 0;}
 
+.text-center{
+  text-align: center;
+}
+
 @media (pointer:fine) {
   .bg-fixed-f {
     background-attachment: fixed;
