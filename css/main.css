@@ -699,6 +699,10 @@ nav {
   background-repeat: no-repeat;
 }
 
+.owl-carousel{
+  display: block;
+}
+
 .owl-carousel .owl-slide {
   position: relative;
   height: 100vh;

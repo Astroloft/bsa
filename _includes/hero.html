@@ -22,7 +22,7 @@
 
 <div class="owl-carousel owl-theme">
   {% for carousel in site.carousel %}
-  <div class="owl-slide d-flex align-items-center cover" style="background-image: url("{% if carousel.title %}{{ carousel.image }}{% endif %}");">
+  <div class="owl-slide d-flex align-items-center cover" style="background-image: url("{% if carousel.image %}{{ carousel.image }}{% endif %}");">
     <div class="container">
       <div class="row justify-content-center justify-content-md-start">
         <div class="w-80 static">
