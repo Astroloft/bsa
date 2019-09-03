@@ -2,8 +2,8 @@
 <section id="partners" class="w-100 bg-white ptb-2">
   <h2 class="black text-center">Partners</h2>
   <div class="w-100 v-mid plr-15 ptb-2">
-    {% for carousel in site.primary_partners %}
-    {% if primary_partners.image %}<div class="w-33 plr-4"><img class="partner-image" src="{{ primary_partners.image }}" /></div> { endif }
+    {% for primary_partners in site.primary-partners %}
+    {% if primary_partners.image %}<div class="w-33 plr-4"><img class="partner-image" src="{{primary-partners.image}}" /></div> { endif }
     {% endfor %}
 
   </div>
