@@ -668,12 +668,6 @@ nav {
   background-repeat: no-repeat;
 }
 
-.owl-carousel{
-  height: 100vh;
-  width: 100%;
-  background-size: cover;
-}
-
 .owl-carousel .owl-slide {
   position: relative;
   height: 100vh;
