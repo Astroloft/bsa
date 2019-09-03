@@ -1,4 +1,5 @@
 /* Import */
+@import "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css";
 
@@ -641,6 +642,37 @@ nav {
   top: 0;
   left: 0;
 }
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 1200px)
+.container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 992px)
+.container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 768px)
+.container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 576px)
+.container {
+    max-width: 540px;
+  }
+}
+
+
 
 /* Fixes *
 .man { margin: 0; }

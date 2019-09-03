@@ -19,3 +19,26 @@
   </div>
 
 </section>
+
+<div class="owl-carousel owl-theme">
+  {% for carousel in site.carousel %}
+  <div class="owl-slide d-flex align-items-center cover" style="background-image: url({% if carousel.title %}{{ carousel.title }}{% endif %});">
+    <div class="container">
+      <div class="row justify-content-center justify-content-md-start">
+        <div class="w-80 static">
+          <div class="owl-slide-text">
+            {% else if int == "even" %}
+            <h1 class="owl-slide-animated owl-slide-title">{% if carousel.title %}{{ carousel.title }}{% else %} Elevate your game. {% endif %}</h1>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">View Programs</a>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">About BSA</a>
+            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">{% if carousel.link_text %}{{ carousel.link_text }}{% endif %}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!--/owl-slide-->
+  {% endfor %}
+  <div class="absolute bottom-0 left-0 w-100 tc">
+    <a href="#about-bsa" class="white no-underline link" title="To About Bartlomé Soccer Academy"><img src="assets/icons/right.png" class="br-100 bg-white ba b--white w1 h1 mb3 pa2" alt="&#709;" style="-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);" /></a>
+  </div>
+</div>
