@@ -2,14 +2,13 @@
 <section id="partners" class="w-100 bg-white ptb-2">
   <h2 class="black text-center">Partners</h2>
   <div class="w-100 v-mid plr-15 ptb-2">
-    <div class="w-33 plr-4"><img class="partner-image" src="assets/images/partners/fdl.png" /></div>
-    <div class="w-33 plr-4"><img class="partner-image" src="assets/images/partners/rk.png" /></div>
-    <div class="w-33 plr-4"><img class="partner-image" src="assets/images/partners/SLB.png" /></div>
+    {% for carousel in site.primary-partners %}
+    <div class="w-33 plr-4"><img class="partner-image" src="{% if primary-partners.image %}{{ primary-partners.image }}{% endif %}" /></div>
+    {% endfor %}
   </div>
   <div class="w-100 v-mid plr-15 ptb-2">
-    <div class="w-25 plr-2"><img class="partner-image" src="assets/images/partners/bscob_black.png" /></div>
-    <div class="w-25 plr-2"><img class="partner-image" src="assets/images/partners/lkp_black.png" /></div>
-    <div class="w-25 plr-2"><img class="partner-image" src="assets/images/partners/sklz.png" /></div>
-    <div class="w-25 plr-2"><img class="partner-image" src="assets/images/partners/shirtworld-ch.png" /></div>
+    {% for carousel in site.secondary-partners %}
+    <div class="w-25 plr-2"><img class="partner-image" src="{% if secondary-partners.image %}{{ secondary-partners.image }}{% endif %}" /></div>
+    {% endfor %}
   </div>
 </section>
