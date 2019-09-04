@@ -29,11 +29,13 @@
       }, 200);
     });
 
-    const jQueryowlCarousel = jQuery(".owl-carousel").owlCarousel({
-      items: 1,
-      loop: true,
-      autoplay:true,
-      autoplayTimeout:1000
+    var owl = jQuery('.owl-carousel');
+    owl.owlCarousel({
+        items:1,
+        loop:true,
+        margin:10,
+        autoplay:true,
+        autoplayTimeout:1000,
     });
 
     jQueryowlCarousel.on("changed.owl.carousel", e => {
