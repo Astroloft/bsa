@@ -4,7 +4,7 @@
 <img src="assets/images/hero-3.jpg" />
 <img src="assets/images/hero-4.jpg" />
 </div>
-<section id="gallery" class="w-100 h-full dt relative bg-cv man pan bg-fixed-f no-repeat hero-bg-1">
+<section id="gallery" class="w-100 h-full dt relative bg-cv man pan bg-fixed-f no-repeat">
 
   <div class="dtc v-mid bg-black-50"><div class="measure-narrow measure-m measure-wide-l center">
     <h1 class="mb4 lh-title white f2 tc"> Elevate your game. </h1>
@@ -12,13 +12,8 @@
       <a href="#programs" class="mb3 mbn-ns link br-pill pa3 w4 bg-white black dib mr3 dim">View Programs</a>
       <a href="#about-bsa" class="link br-pill pa3 w4 ba b--white white dib mr3 dim">About BSA</a>
     </div>
-  </div></div>
-
-  <div class="absolute bottom-0 left-0 w-100 tc">
-<a href="#about-bsa" class="white no-underline link" title="To About Bartlomé Soccer Academy"><img src="assets/icons/right.png" class="br-100 bg-white ba b--white w1 h1 mb3 pa2" alt="&#709;" style="-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);" /></a>
   </div>
-
-</section>
+</div>
 
 <div class="owl-carousel owl-theme">
   {% for carousel in site.carousel %}
@@ -27,10 +22,14 @@
       <div class="row justify-content-center justify-content-md-start">
         <div class="w-80 static">
           <div class="owl-slide-text">
-            <h1 class="owl-slide-animated owl-slide-title">{% if carousel.title %}{{ carousel.title }}{% else %} Elevate your game. {% endif %}</h1>
-            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">View Programs</a>
-            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">About BSA</a>
-            <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">{% if carousel.link_text %}{{ carousel.link_text }}{% endif %}</a>
+            <div class="dtc v-mid bg-black-50"><div class="measure-narrow measure-m measure-wide-l center">
+              <h1 class="owl-slide-animated owl-slide-title">{% if carousel.title %}{{ carousel.title }}{% else %} Elevate your game. {% endif %}</h1>
+              <div class="tc">
+                <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">About BSA</a>
+                <a class="btn btn-primary owl-slide-animated owl-slide-cta" href="https://unsplash.com/photos/pgR4yBMjum8" target="_blank" role="button">{% if carousel.link_text %}{{ carousel.link_text }}{% endif %}</a>
+              </div>
+            </div>
+          </div>
           </div>
         </div>
       </div>
@@ -38,3 +37,9 @@
   </div><!--/owl-slide-->
   {% endfor %}
 </div>
+
+  <div class="absolute bottom-0 left-0 w-100 tc">
+<a href="#about-bsa" class="white no-underline link" title="To About Bartlomé Soccer Academy"><img src="assets/icons/right.png" class="br-100 bg-white ba b--white w1 h1 mb3 pa2" alt="&#709;" style="-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);" /></a>
+  </div>
+
+</section>
