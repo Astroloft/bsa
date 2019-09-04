@@ -60,15 +60,15 @@
       const jQuerytarget = jQuery(".owl-item.active .owl-slide-text");
       doDotsCalculations(jQuerytarget);
     }
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        loop:true,
+        autoplay:true,
+        autoplayTimeout:1000
+    });
     </script>
 
-    <script>
-      $(document).ready(function(){$(".owl-carousel").owlCarousel({
-          autoplay:true,
-          autoplayTimeout:1000,
-          autoplayHoverPause:true
-      });});
-    </script>
+    <script>$(document).ready(function(){$(".owl-carousel").owlCarousel({});});</script>
 
   </body>
 
