@@ -707,6 +707,12 @@ nav {
     height: 100vh;
   }
 
+  .cover {
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+
 }
 
 @media screen and (min-width: 762px){
@@ -725,6 +731,12 @@ nav {
   .owl-carousel .owl-slide {
     height: 75vh;
   }
+
+  .cover {
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
 }
 
 @media screen and (min-width: 1024px){
@@ -741,14 +753,14 @@ nav {
   }
 
   .owl-carousel .owl-slide {
-    height: 110vh;
+    height: 105vh;
   }
-}
 
-.cover {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  .cover {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 
 .owl-carousel .owl-slide {
