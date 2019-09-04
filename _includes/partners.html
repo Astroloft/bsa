@@ -2,13 +2,13 @@
 <section id="partners" class="w-100 bg-white ptb-2">
   <h2 class="black text-center">Partners</h2>
   <div class="w-100 v-mid plr-15 ptb-2">
-    {% for carousel in site.primary_partners %}
-    <div class="w-33 plr-4"><img class="partner-image" src="{% if primary_partners.image %}{{ primary_partners.image }}{% endif %}" /></div>
+    {% for carousel in site.primary-partners %}
+    <div class="w-33 plr-4"><img class="partner-image" src="{% if primary-partners.image %}{{ primary-partners.image }}{% endif %}" /></div>
     {% endfor %}
   </div>
   <div class="w-100 v-mid plr-15 ptb-2">
-    {% for carousel in site.secondary_partners %}
-    <div class="w-25 plr-2"><img class="partner-image" src="{% if secondary_partners.image %}{{ secondary_partners.image }}{% endif %}" /></div>
+    {% for carousel in site.secondary-partners %}
+    <div class="w-25 plr-2"><img class="partner-image" src="{% if secondary-partners.image %}{{ secondary-partners.image }}{% endif %}" /></div>
     {% endfor %}
   </div>
 </section>
