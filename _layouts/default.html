@@ -30,10 +30,11 @@
     });
 
     const jQueryowlCarousel = jQuery(".owl-carousel").owlCarousel({
+      items: 1,
       loop: true,
       autoplay:true,
       autoplayTimeout:1000
-  });
+    });
 
     jQueryowlCarousel.on("changed.owl.carousel", e => {
       jQuery(".owl-slide-animated").removeClass("is-transitioned");
