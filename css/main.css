@@ -689,8 +689,9 @@ nav {
   min-height: 100vh;
 }
 
-.mtop-25{
-  margin-top: 25%;
+.slider-inner-content{
+  padding: 30% 25%;
+  text-align: center;
 }
 
 .cover {
