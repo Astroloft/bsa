@@ -2,8 +2,8 @@
 <div class="owl-carousel owl-theme">
   {% for carousel in site.carousel %}
   <div class="owl-slide d-flex align-items-center cover" style="background-image:{% if carousel.image %} url('{{ carousel.image }}'){% endif %};">
-    <div class="container-fluid bg-black-50">
-      <div class="row justify-content-center justify-content-md-start">
+    <div class="container-fluid bg-black-50 min100">
+      <div class="row mtop-25">
         <div class="w-80 static">
           <div class="owl-slide-text">
               <div class="measure-narrow measure-m measure-wide-l center">
