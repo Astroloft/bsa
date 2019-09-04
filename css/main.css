@@ -712,6 +712,7 @@ nav {
   position: relative;
   height: 110vh;
   background-color: lightgray;
+  overflow-x: hidden;
 }
 
 .owl-carousel .owl-slide-animated {
