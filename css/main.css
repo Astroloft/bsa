@@ -696,15 +696,15 @@ nav {
   }
 
   .min100{
-    min-height: 10vh;
+    min-height: 25vh;
   }
 
   .min110{
-    min-height: 20vh;
+    min-height: 50vh;
   }
 
   .owl-carousel .owl-slide {
-    height: 20vh;
+    height: 50vh;
   }
 
 }
