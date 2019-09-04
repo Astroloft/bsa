@@ -6,10 +6,6 @@
  * Fix Tachyons Bugs
  */
 
-body *{
-  overflow-x: hidden;
-}
-
 .bg-cv {
   background-size: cover;
 }
@@ -650,6 +646,10 @@ nav {
 .man { margin: 0; }
 .pan { padding: 0; }
 */
+
+.overflow-hide{
+  overflow-x: hidden;
+}
 
 .staff-bg {
   background: white;
