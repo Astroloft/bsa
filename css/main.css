@@ -689,6 +689,10 @@ nav {
   min-height: 100vh;
 }
 
+.min110{
+  min-height: 110vh;
+}
+
 .slider-inner-content{
   padding: 14.35% 25%;
   text-align: center;
@@ -702,7 +706,7 @@ nav {
 
 .owl-carousel .owl-slide {
   position: relative;
-  height: 100vh;
+  height: 110vh;
   background-color: lightgray;
 }
 
