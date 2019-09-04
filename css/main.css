@@ -685,6 +685,14 @@ nav {
     margin-left: auto;
 }
 
+.min100{
+  min-height: 100vh;
+}
+
+.mtop-25{
+  margin-top: 25%;
+}
+
 .cover {
   background-size: cover;
   background-position: center;
