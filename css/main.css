@@ -697,9 +697,47 @@ nav {
   min-height: 110vh;
 }
 
-.slider-inner-content{
-  padding: 14.35% 25%;
-  text-align: center;
+@media screen and (min-width: 300px){
+  .slider-inner-content{
+    padding: 25% 25;
+    text-align: center;
+  }
+
+  .min100{
+    min-height: 10vh;
+  }
+
+  .min110{
+    min-height: 20vh;
+  }
+}
+
+@media screen and (min-width: 762px){
+  .slider-inner-content{
+    padding: 25.35% 15%;
+    text-align: center;
+  }
+  .min100{
+    min-height: 50vh;
+  }
+
+  .min110{
+    min-height: 75vh;
+  }
+}
+
+@media screen and (min-width: 1024px){
+  .slider-inner-content{
+    padding: 14.35% 25%;
+    text-align: center;
+  }
+  .min100{
+    min-height: 100vh;
+  }
+
+  .min110{
+    min-height: 110vh;
+  }
 }
 
 .cover {
