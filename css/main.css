@@ -6,6 +6,10 @@
  * Fix Tachyons Bugs
  */
 
+body{
+  overflow-x: hidden;
+}
+
 .bg-cv {
   background-size: cover;
 }
