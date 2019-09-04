@@ -3,12 +3,12 @@
   <h2 class="black text-center">Partners</h2>
   <div class="w-100 v-mid plr-15 ptb-2">
     {% for primary-partners in site.primary-partners %}
-    <div class="w-33 plr-4"><img class="partner-image" src="{% primary-partners.image %}" /></div>
+    <div class="w-33 plr-4"><img class="partner-image" src="{{ primary-partners.image }}" /></div>
     {% endfor %}
   </div>
   <div class="w-100 v-mid plr-15 ptb-2">
     {% for secondary-partners in site.secondary-partners %}
-    <div class="w-25 plr-2"><img class="partner-image" src="{% secondary-partners.image %}" /></div>
+    <div class="w-25 plr-2"><img class="partner-image" src="{{ secondary-partners.image }}" /></div>
     {% endfor %}
   </div>
 </section>
