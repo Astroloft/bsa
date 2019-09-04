@@ -689,14 +689,6 @@ nav {
     margin-left: auto;
 }
 
-.min100{
-  min-height: 100vh;
-}
-
-.min110{
-  min-height: 110vh;
-}
-
 @media screen and (min-width: 300px){
   .slider-inner-content{
     padding: 25% 25;
@@ -710,6 +702,11 @@ nav {
   .min110{
     min-height: 20vh;
   }
+
+  .owl-carousel .owl-slide {
+    height: 20vh;
+  }
+
 }
 
 @media screen and (min-width: 762px){
@@ -723,6 +720,10 @@ nav {
 
   .min110{
     min-height: 75vh;
+  }
+
+  .owl-carousel .owl-slide {
+    height: 75vh;
   }
 }
 
@@ -738,6 +739,10 @@ nav {
   .min110{
     min-height: 110vh;
   }
+
+  .owl-carousel .owl-slide {
+    height: 110vh;
+  }
 }
 
 .cover {
@@ -748,7 +753,6 @@ nav {
 
 .owl-carousel .owl-slide {
   position: relative;
-  height: 110vh;
   background-color: lightgray;
 }
 
