@@ -3,12 +3,12 @@
   <h2 class="black text-center">Partners</h2>
   <div class="w-100 v-mid plr-15 ptb-2">
     {% for carousel in site.primary-partners %}
-    <div class="w-33 plr-4">{% if primary-partners.image %}<img class="partner-image" src="{{ primary-partners.image }}" />{% endif %}</div>
+    <div class="w-33 plr-4"><img class="partner-image" src="{{ primary-partners.image }}" /></div>
     {% endfor %}
   </div>
   <div class="w-100 v-mid plr-15 ptb-2">
     {% for carousel in site.secondary-partners %}
-    <div class="w-25 plr-2">{% if secondary-partners.image %}<img class="partner-image" src="{{ secondary-partners.image }}" />{% endif %}</div>
+    <div class="w-25 plr-2"><img class="partner-image" src="{{ secondary-partners.image }}" /></div>
     {% endfor %}
   </div>
 </section>
