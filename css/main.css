@@ -6,7 +6,7 @@
  * Fix Tachyons Bugs
  */
 
-body{
+body *{
   overflow-x: hidden;
 }
 
