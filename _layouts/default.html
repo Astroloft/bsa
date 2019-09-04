@@ -45,12 +45,6 @@
       const jQuerytarget = jQuerycurrentOwlItem.find(".owl-slide-text");
       doDotsCalculations(jQuerytarget);
     });
-
-    jQueryowlCarousel.on("resize.owl.carousel", () => {
-      setTimeout(() => {
-        setOwlDotsPosition();
-      }, 50);
-    });
     </script>
 
     <script>$(document).ready(function(){$(".owl-carousel").owlCarousel({});});</script>
