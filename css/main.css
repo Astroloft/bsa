@@ -717,6 +717,9 @@ nav {
     background-repeat: no-repeat;
   }
 
+  .btn-special{
+    margin-top: 20px;
+  }
 }
 
 @media screen and (min-width: 762px){
