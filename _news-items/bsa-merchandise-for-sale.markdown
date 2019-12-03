@@ -2,24 +2,24 @@
 title: BSA Merchandise Christmas Gifts!!!
 date: 2017-01-23 10:28:00 +01:00
 position: 3
-heading: BSA Merchandise FOR SALE!
-image: "/uploads/BD562825-1A25-49CF-BD96-0027F6C64F45.JPG"
+heading: BSA Merchandise FOR SALE! Perfect CHRISTMAS Gifts!!! :-)
+image: "/uploads/IMG_1650.jpg"
 ---
 
-BSA T-shirts, Jackets and full kit available for purchase!
+BSA T-shirts, Jackets and full kit available for purchase for discounted prices!
 👕👕👕⚽️❤⚽️❤⚽️❤
 
-Limited sizes and availability.
+Also, with every order you make, you receive one FREE BSA soccer shoe bag!!! Only while supplies last!
 
-Nike BSA T-shirts = 30chf
+VERY limited sizes, colors and availability... so don't wait!
 
-Nike BSA Jackets = 50chf (limited sizes and availability)
+Nike BSA Jackets = **40chf** each, normally 50chf
 
-Erima BSA Camp T-shirts = 15chf
+Nike BSA Camp Jersey Tops = **25chf** each, normally 30chf
 
-Nike BSA Full Kit = 50chf (very limited sizes and availability)
+BENFICA/BSA Full Kit = **40chf**, normally 50chf
 
-**BUY 1 ITEM AND GET THE 2ND ITEM 20%OFF!!!** (discount applies to lesser value item)
+**ALSO, BUY 1 ITEM AND GET THE 2ND ITEM 20%OFF!!!** (discount applies to lesser value item)
 
 
 Email us at bartlomesocceracademy@gmail.com for info and purchases.
