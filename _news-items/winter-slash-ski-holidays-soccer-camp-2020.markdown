@@ -14,4 +14,4 @@ All children from 6-14 years old are welcome!
 
 **INDOORS** at the sport halls in Bäumlihof! 
 
-Click on the picture on the left for more information and to register
+**Click on the picture on the left for more information and to register****
