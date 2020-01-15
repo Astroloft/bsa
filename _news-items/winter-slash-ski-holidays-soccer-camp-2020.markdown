@@ -6,8 +6,6 @@ link: https://docs.google.com/forms/d/1IJcPtT9WSYsbwFgLK2pjOFS_P8YUezIngZSNCPLA2
 image: "/uploads/Winter%20Soccer%20Camp%202020.png"
 ---
 
-**- WINTER/Ski Holidays Soccer CAMP -**
-
 February 24th - 28th everyday from 900-1600.
 
 FULL DAY and HALF DAY options available!!!
