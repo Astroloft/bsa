@@ -13,7 +13,7 @@ image: "/uploads/BSA%20-%20Sat%20Soccer%20Group%20Photo.png"
 
 **WHO**: Boys & Girls aged 5-14 years old. All ability levels are welcome so bring your friends! :-)
 
-**COST** 360chf: If you register & pay before March 15th. After March 15th, the cost is 400chf
+**COST**: **360chf if you register & pay before March 15th**. After March 15th, the cost is 400chf
 
 **10% off 1st Sibling and 20% off 2nd sibling!**
 
