@@ -3,7 +3,7 @@ title: Spring Saturday Soccer Course
 date: 2018-08-13 13:26:00 +02:00
 position: 0
 heading: SPRING Saturday Soccer Course 2020
-image: "/uploads/BSA%20-%20Sat%20Soccer%20Group%20Photo.png"
+image: "/uploads/BSA%20Logo%20cropped%20with%20Sat%20Soccer%20Group.png"
 ---
 
 **WHEN**: Every Saturday morning from 900-1030 starting Saturday, March 14th and ending June 27th.
