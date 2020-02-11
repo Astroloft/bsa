@@ -6,20 +6,14 @@ heading: SPRING Saturday Soccer Course 2020
 image: "/uploads/PHOTO-2018-09-23-10-50-24.jpg"
 ---
 
-**WHEN**: Saturday mornings starting Saturday, March 14th and ending June 27th.
-- 900 - 1030
-
+**WHEN**: Every Saturday morning from 900-1030 starting Saturday, March 14th and ending June 27th.
 ***No training sessions on April 11th, 18th and May 23rd***
 
 **WHERE**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
 
 **WHO**: Boys & Girls aged 5-14 years old. All ability levels are welcome so bring your friends! :-)
 
-**COST**
-
-- 360chf: If you register & pay before March 15th.
-
-After March 15th, the cost is 400chf
+**COST** 360chf: If you register & pay before March 15th. After March 15th, the cost is 400chf
 
 **10% off 1st Sibling and 20% off 2nd sibling!**
 
