@@ -3,31 +3,29 @@ title: Spring Saturday Soccer Course
 date: 2018-08-13 13:26:00 +02:00
 published: false
 position: 3
-heading: Spring Saturday Soccer Course
-image: "/uploads/Screen%20Shot%202018-08-13%20at%2013.38.27.png"
+heading: SPRING Saturday Soccer Course 2020
+image: "/uploads/PHOTO-2018-09-23-10-50-24.jpg"
 ---
 
-**WHEN**: Saturday mornings starting Saturday, April 6th and ending June 29th.
-- 6-14 years old from 900 - 1030
-- 4-5 years old from 900 - 1000
+**WHEN**: Saturday mornings starting Saturday, March 14th and ending June 27th.
+- 900 - 1030
 
-***No training sessions on April 20th and 27th***
+***No training sessions on April 11th, 18th and May 23rd***
 
 **WHERE**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
 
-**WHO**: Boys & Girls aged 4-14 years old. All ability levels are welcome so bring your friends! :-)
+**WHO**: Boys & Girls aged 5-14 years old. All ability levels are welcome so bring your friends! :-)
 
 **COST**
 
-- 300chf: 6-14 years. Register & pay before March 29th.
-- 260chf: 4-5 years. Register & pay before March 29th.
+- 360chf: If you register & pay before March 15th.
 
-After March 29th, the cost is 340chf and 300chf respectively.
+After March 15th, the cost is 400chf
 
-**10% off 1st Sibling and 20% off 2nd sibling! (Applied to lower amount course cost)**
+**10% off 1st Sibling and 20% off 2nd sibling!**
 
 **WHAT TO BRING**: Soccer appropriate shoes, i.e. cleats or turf shoes, shinguards, water bottle, weather appropriate sports attire
 
-**TRY THE FIRST TIME FOR FREE!!!**
+**TRY THE FIRST TIME WITH NO OBLIGATION TO JOIN!!!**
 
 ## For more info or to register, please email us now at bartlomesocceracademy@gmail.com
