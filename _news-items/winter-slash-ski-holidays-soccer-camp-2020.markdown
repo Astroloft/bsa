@@ -1,7 +1,7 @@
 ---
 title: Winter/Ski Holidays Soccer Camp 2020
 date: 2020-01-15 13:45:00 +01:00
-position: 1
+position: 3
 heading: BSA Winter/Ski Holidays Soccer Camp 2020
 link: https://docs.google.com/forms/d/1IJcPtT9WSYsbwFgLK2pjOFS_P8YUezIngZSNCPLA2ww/edit
 image: "/uploads/Winter%20Soccer%20Camp%202020.png"
