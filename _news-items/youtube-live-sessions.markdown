@@ -7,4 +7,4 @@ link: https://www.youtube.com/channel/UCzMQUxx0ocF0OJqvfqQ1Khw?view_as=subscribe
 image: "/uploads/YouTube%20icon.jpeg"
 ---
 
-If you or anyone you know is itching to get some SOCCER TRAINING right now, check out our YouTube channel for all sorts of cool Soccer Training videos and or weekly YouTube LIVE sessions!!!💪💪💪 Click the Picture on the left to head to our YouTube channel and if you like what you see, please subscribe!
+If you or anyone you know is itching to get some SOCCER TRAINING right now, check out our YouTube channel for all sorts of cool Soccer Training videos and our weekly YouTube LIVE sessions!!!💪💪💪 Click the Picture on the left to head to our YouTube channel and if you like what you see, please subscribe!
