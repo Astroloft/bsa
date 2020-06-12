@@ -1,6 +1,7 @@
 ---
 title: BSA Temporarily Closed due to Coronavirus
 date: 2020-03-18 14:31:00 +01:00
+published: false
 position: 2
 heading: BSA Temporarily Closed due to Coronavirus
 image: "/uploads/Screenshot%202020-03-18%20at%2014.14.07-9a9f26.png"
