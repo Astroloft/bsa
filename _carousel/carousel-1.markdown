@@ -2,9 +2,9 @@
 title: Carousel 1
 date: 2019-08-29 02:46:00 +02:00
 position: 0
-image: "/uploads/hero-1-218c74.jpg"
-link: https://docs.google.com/forms/d/1VenzQ8w-HARfHy-v2YJuKP4ixbnvj3imakx2-GdQl8k/edit
+image: "/uploads/Screenshot%202020-06-12%20at%2013.23.06.png"
+link: https://docs.google.com/forms/d/18gIZYo3gXXNUoWee0wd4DkA4c6Er2cwXPciWNggyp04/edit
 new_tab: 
-link_text: Benfica Enrollment
+link_text: Soccer/FIFA eSports Enrollment
 ---
 
