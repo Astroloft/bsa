@@ -21,4 +21,6 @@ image: "/uploads/BSA%20Logo%20cropped%20with%20Sat%20Soccer%20Group.png"
 
 **TRY THE FIRST TIME WITH NO OBLIGATION TO JOIN!!!**
 
+**Join at anytime during the course and pay a prorated cost!**
+
 ## For more info or to register, please email us now at bartlomesocceracademy@gmail.com
