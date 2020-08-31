@@ -12,7 +12,7 @@ tags:
 - program
 - programs
 - childcare
-position: 10
+position: 0
 heading: FALL HOLIDAYS Soccer Camp Program - INFO and REGISTRATION
 link: https://docs.google.com/forms/d/1hNHbxg2IBAQ3YgbAy0a7lsUIc9fpqofkG6Ft5Ig9DR0/edit
 image: "/uploads/BSA%20Logo%20with%20Sat%20Soccer%20Group-d999fd.paint"
