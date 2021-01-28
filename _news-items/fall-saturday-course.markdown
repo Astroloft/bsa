@@ -20,7 +20,7 @@ tags:
 - fussball spielen
 - play soccer
 - play football
-position: 2
+position: 1
 heading: WINTER Saturday Soccer Course 2021
 image: "/uploads/BSA%20Logo%20with%20Large%20Group.png"
 ---
