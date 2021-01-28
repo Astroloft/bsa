@@ -1,7 +1,7 @@
 ---
 title: Summer Camps 2020
 date: 2018-04-19 09:39:00 +02:00
-position: 3
+position: 4
 heading: Summer Camps 2020
 link: https://docs.google.com/forms/d/18gIZYo3gXXNUoWee0wd4DkA4c6Er2cwXPciWNggyp04/edit
 image: "/uploads/BSA%20Tourni%20Group%20Photo.jpg"
