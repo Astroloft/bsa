@@ -1,9 +1,28 @@
 ---
 title: WINTER Saturday Soccer Course
 date: 2018-08-13 13:26:00 +02:00
+tags:
+- soccer
+- soccer academy
+- soccer training
+- soccer session
+- soccer coach
+- soccer kids
+- football camp
+- football academy
+- football session
+- football training
+- footballer
+- football kids
+- fussball
+- fussballer
+- fussball akademie
+- fussball spielen
+- play soccer
+- play football
 position: 2
 heading: WINTER Saturday Soccer Course 2021
-image: "/uploads/BSA%20Fall%20Sat%20Soccer%20Flyer_2020.png"
+image: "/uploads/BSA%20Logo%20with%20Large%20Group.png"
 ---
 
 **WHEN**: Every Saturday morning from 900-1030 starting Saturday, January 23rd and ending March 13th.
