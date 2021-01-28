@@ -1,19 +1,27 @@
 ---
-title: Winter/Ski Holidays Soccer Camp 2020
+title: Winter/Ski Holidays Soccer Camp 2021
 date: 2020-01-15 13:45:00 +01:00
 published: false
+tags:
+- soccer
+- soccer camp
+- soccer academy
+- football
+- football academy
+- football camp
+- holiday
+- holiday camp
+- camps
 position: 6
-heading: BSA Winter/Ski Holidays Soccer Camp 2020
-link: https://docs.google.com/forms/d/1IJcPtT9WSYsbwFgLK2pjOFS_P8YUezIngZSNCPLA2ww/edit
-image: "/uploads/Winter%20Soccer%20Camp%202020.png"
+heading: BSA Winter/Ski Holidays Soccer Camp 2021
+link: https://docs.google.com/forms/d/1RyxxH8cozU0IOta-wVfoDdlVs4bdG1Dw7qSQ8XhBsoo/edit?usp=drive_web
+image: "/uploads/IMG_8011%202.heic"
 ---
 
-February 24th - 28th everyday from 900-1600.
+February 15th - 19th and 22nd - 26th everyday from 1000-1600.
 
 FULL DAY and HALF DAY options available!!!
 
-All children from 6-14 years old are welcome!
-
-**INDOORS** at the sport halls in Bäumlihof! 
+All children from 6-15 years old are welcome! 
 
 FOR MORE INFORMATION AND TO REGISTER: Click the picture on your left!
