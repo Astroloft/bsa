@@ -14,7 +14,7 @@ tags:
 position: 0
 heading: BSA Winter/Ski Holidays Soccer Camp 2021
 link: https://docs.google.com/forms/d/1RyxxH8cozU0IOta-wVfoDdlVs4bdG1Dw7qSQ8XhBsoo/edit?usp=drive_web
-image: "/uploads/IMG_8011%202.heic"
+image: "/uploads/Benfica%20Camp%20Team%20Photo%202019.png"
 ---
 
 February 15th - 19th and 22nd - 26th everyday from 1000-1600.
