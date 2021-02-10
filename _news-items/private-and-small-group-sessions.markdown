@@ -28,4 +28,4 @@ link: https://docs.google.com/forms/d/1G1JTda8LdtWWL4pUEbCE8KHgLlMzlzAWiLdfyVbpz
 image: "/uploads/G0039032.jpg"
 ---
 
-Private and small group sessions will be offered over the next 2 weeks in different time frames than usual. **Please click on the picture on the left** to access the google doc with all relevant info and to register today!
+Private and small group sessions will be offered over the next 2 Winter Holiday weeks in different time frames than usual. **Please click on the picture on the left** to access the google doc with all relevant info and to register today!
