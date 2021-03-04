@@ -1,5 +1,5 @@
 ---
-title: WINTER Saturday Soccer Course
+title: SPRING Saturday Soccer Course
 date: 2018-08-13 13:26:00 +02:00
 tags:
 - soccer
@@ -21,18 +21,18 @@ tags:
 - play soccer
 - play football
 position: 1
-heading: WINTER Saturday Soccer Course 2021
+heading: SPRING Saturday Soccer Course 2021
 image: "/uploads/BSA%20Logo%20with%20Large%20Group.png"
 ---
 
-**WHEN**: Every Saturday morning from 900-1030 starting Saturday, January 23rd and ending March 13th.
-***No training session on February 27th***
+**WHEN**: Every Saturday morning from 900-1030 starting Saturday, March 20th and ending July 3rd.
+***No training sessions on April 3rd and 10th***
 
 **WHERE**: Schützenmatte Soccer fields, across the street from Neubadstrasse 5, Basel.
 
 **WHO**: Boys & Girls aged 5-15 years old. All ability levels are welcome so bring your friends! :-)
 
-**COST**: **192.50chf**
+**COST**: **390CHF** *if you register and pay before March 19th. After March 19th, cost is 420CHF
 
 **10% off 1st Sibling and 20% off 2nd sibling!**
 
