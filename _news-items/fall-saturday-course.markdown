@@ -20,6 +20,15 @@ tags:
 - fussball spielen
 - play soccer
 - play football
+- basel
+- soccer in basel
+- fussball in basel
+- basel fussball club
+- basel football club
+- football club in basel
+- swiss football
+- swiss soccer
+- swiss soccer club
 position: 1
 heading: SPRING Saturday Soccer Course 2021
 image: "/uploads/BSA%20Logo%20with%20Large%20Group.png"
