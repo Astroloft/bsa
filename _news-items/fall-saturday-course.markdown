@@ -31,7 +31,7 @@ tags:
 - swiss soccer club
 position: 0
 heading: SPRING Saturday Soccer Course 2021
-image: "/uploads/BSA%20Logo%20with%20Large%20Group.png"
+image: "/uploads/PHOTO-2018-09-23-10-50-24-c4566a.jpg"
 ---
 
 **WHEN**: Every Saturday morning from 900-1030 starting Saturday, March 20th and ending July 3rd.
