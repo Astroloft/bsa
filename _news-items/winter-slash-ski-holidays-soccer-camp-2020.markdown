@@ -1,6 +1,7 @@
 ---
 title: Winter/Ski Holidays Soccer Camp 2021
 date: 2020-01-15 13:45:00 +01:00
+published: false
 tags:
 - soccer
 - soccer camp
