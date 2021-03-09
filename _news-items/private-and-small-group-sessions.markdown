@@ -24,6 +24,7 @@ tags:
 - football training
 - footballer
 - play football
+- camp
 position: 2
 heading: Private/Small Group Sessions
 link: https://docs.google.com/forms/d/1G1JTda8LdtWWL4pUEbCE8KHgLlMzlzAWiLdfyVbpzNw/edit?usp=drive_web
