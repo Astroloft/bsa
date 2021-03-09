@@ -1,7 +1,6 @@
 ---
 title: Easter Camps 2021
 date: 2018-01-23 07:55:00 +01:00
-published: false
 position: 10
 heading: Easter Camps 2021
 link: https://docs.google.com/forms/d/11-DDQnPSog_yWGTjp5DsBxyLxQhhJ4SkcQOA6nwJnzA/edit?usp=drive_web
