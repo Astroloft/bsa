@@ -1,7 +1,6 @@
 ---
 title: ELITE Training Program
 date: 2021-03-15 14:59:00 +01:00
-published: false
 heading: BSA ELITE Training
 link: https://widget.fitogram.pro/bartlome-soccer-academy?w=/list-view
 image: "/uploads/Antonio%20and%20Coach%20Chad.jpg"
