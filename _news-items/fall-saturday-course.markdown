@@ -29,7 +29,7 @@ tags:
 - swiss football
 - swiss soccer
 - swiss soccer club
-position: 1
+position: 3
 heading: SPRING Saturday Soccer Course 2021
 image: "/uploads/PHOTO-2018-09-23-10-50-24-c4566a.jpg"
 ---
